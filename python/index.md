@@ -64,6 +64,8 @@
 
 [2018-07-28: permutation_no-rep](2018-07-28_permutation_no-rep)
 
+[2018-08-31 - AutoClicker Files](2018-08-31_-_AutoClicker_Files)
+
 [2018-09-16: Mega_Calculator](2018-09-16_Mega_Calculator)
 
 [2018-09-16: parabola_calculator](2018-09-16_parabola_calculator)
@@ -82,13 +84,23 @@
 
 [2018-11-10: Ssundee](2018-11-10_Ssundee)
 
+[2018-11-11 - Keylogger](2018-11-11_-_Keylogger)
+
+[2018-11-28: -_Undertale_Speedrun_Tool](2018-11-28_-_Undertale_Speedrun_Tool)
+
 [2018-12-15: SenseHAT_Slot_Machine](2018-12-15_SenseHAT_Slot_Machine)
 
 [2018-12-15: trololololololololotrolololo](2018-12-15_trololololololololotrolololo)
 
 [2018-12-15: wut](2018-12-15_wut)
 
+[2018-12-16: -_Annoying_Delete](2018-12-16_-_Annoying_Delete)
+
 [2019-01-18: AutoReportBot](2019-01-18_AutoReportBot)
+
+[2019-02-02 - Click Read tool](2019-02-02_-_Click_Read_tool)
+
+[2019-02-08: -_Spam_Tool](2019-02-08_-_Spam_Tool)
 
 [2019-02-14: play_youtube_video](2019-02-14_play_youtube_video)
 
@@ -97,6 +109,8 @@
 [2019-02-26: thing_test](2019-02-26_thing_test)
 
 [2019-03-03: atom_test](2019-03-03_atom_test)
+
+[2019-03-07: -_errorbox_test](2019-03-07_-_errorbox_test)
 
 [2019-04-05: atomtest](2019-04-05_atomtest)
 
@@ -114,6 +128,12 @@
 
 [2019-06-21: Primes](2019-06-21_Primes)
 
+[2019-07-29 - Discord Token Grabber](2019-07-29_-_Discord_Token_Grabber)
+
+[2019-09-10 - DNS Server](2019-09-10_-_DNS_Server)
+
+[2019-09-28: -_Run_Executable_As_Admin](2019-09-28_-_Run_Executable_As_Admin)
+
 [2019-10-20: channelscanning](2019-10-20_channelscanning)
 
 [2019-10-27: pygametestthing](2019-10-27_pygametestthing)
@@ -128,7 +148,27 @@
 
 [2019-11-01: validation](2019-11-01_validation)
 
+[2019-11-02 - Python Proxy](2019-11-02_-_Python_Proxy)
+
+[2019-11-02 - Python Proxy v2](2019-11-02_-_Python_Proxy_v2)
+
+[2019-11-03 - NMAP Scanner](2019-11-03_-_NMAP_Scanner)
+
 [2019-11-03: socketthing](2019-11-03_socketthing)
+
+[2019-11-04 - SHA1 Hash Brute-Forcer](2019-11-04_-_SHA1_Hash_Brute-Forcer)
+
+[2019-11-06 - Advanced Keylogger](2019-11-06_-_Advanced_Keylogger)
+
+[2019-11-06 - FTP Brute Force](2019-11-06_-_FTP_Brute_Force)
+
+[2019-11-08 - Python Keylogger](2019-11-08_-_Python_Keylogger)
+
+[2019-11-20 - Brute Force Cracking](2019-11-20_-_Brute_Force_Cracking)
+
+[2019-12-06 - Worm](2019-12-06_-_Worm)
+
+[2019-12-15: -_test](2019-12-15_-_test)
 
 [2020-05-29: HungerGames_recreation_betting_simulator_Remake_(5-29-2020)](2020-05-29_HungerGames_recreation_betting_simulator_Remake_(5-29-2020))
 

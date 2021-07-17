@@ -1,0 +1,13 @@
+[Back to main page](/)
+
+# errorbox_test
+
+## Date: 2019-03-07
+
+Intended to be used as a semi-prank, this would create error messages to appear as if a website is blocked.
+
+-----
+
+## Files
+
+[errorbox_test.py](errorbox_test.py)
