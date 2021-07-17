@@ -8,4 +8,4 @@ An attempt at a solution for a USAMTS problem.
 
 ## Files
 
-(usamts_set2_problem1.py)[usamts_set2_problem1.py]
+[usamts_set2_problem1.py](usamts_set2_problem1.py)

@@ -8,4 +8,4 @@ Does nothing useful. At all.
 
 ## Files
 
-(wut.py)[wut.py]
+[wut.py](wut.py)

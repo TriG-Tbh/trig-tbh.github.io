@@ -10,4 +10,4 @@ It's a program that checks the most recent posts on a Reddit subreddit, compares
 
 ## Files
 
-(validation.py)[validation.py]
+[validation.py](validation.py)

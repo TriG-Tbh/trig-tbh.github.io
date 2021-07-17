@@ -8,4 +8,4 @@ A copy of the ELIZA script from earlier.
 
 ## Files
 
-(eliza.py)[eliza.py]
+[eliza.py](eliza.py)

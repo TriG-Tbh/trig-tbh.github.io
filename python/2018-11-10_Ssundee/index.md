@@ -8,4 +8,4 @@ A fake IDLE clone.
 
 ## Files
 
-(Ssundee.py)[Ssundee.py]
+[Ssundee.py](Ssundee.py)

@@ -8,4 +8,4 @@ The same graphing calculator as before, except it calls itself a graphing calcul
 
 ## Files
 
-(Graphing Calculator.py)[Graphing Calculator.py]
+[Graphing Calculator.py](Graphing Calculator.py)

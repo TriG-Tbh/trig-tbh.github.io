@@ -8,4 +8,4 @@ A graphing calculator that could graph certain linear and quadratic functions.
 
 ## Files
 
-(turtle test.py)[turtle test.py]
+[turtle test.py](turtle test.py)

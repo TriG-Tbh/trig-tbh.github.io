@@ -8,4 +8,4 @@ I think this was supposed to be a fast way of getting prime numbers.
 
 ## Files
 
-(Primes.py)[Primes.py]
+[Primes.py](Primes.py)

@@ -10,4 +10,4 @@ This scanned the channels of a server for all messages that had words in them.
 
 ## Files
 
-(channelscanning.py)[channelscanning.py]
+[channelscanning.py](channelscanning.py)

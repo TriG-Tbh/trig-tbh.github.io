@@ -8,4 +8,4 @@ A test for different plugins within Atom
 
 ## Files
 
-(atom_test.py)[atom_test.py]
+[atom_test.py](atom_test.py)

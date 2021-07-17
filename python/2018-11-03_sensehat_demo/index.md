@@ -12,6 +12,6 @@ Is not complete.
 
 ## Files
 
-(573817_DuoCore---The-Furious.mp3)[573817_DuoCore---The-Furious.mp3]
+[573817_DuoCore---The-Furious.mp3](573817_DuoCore---The-Furious.mp3)
 
-(sensehat_demo.py)[sensehat_demo.py]
+[sensehat_demo.py](sensehat_demo.py)

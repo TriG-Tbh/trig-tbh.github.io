@@ -18,4 +18,4 @@ Eventually, I added so much that I couldn't understand it. Even today, I don't k
 
 ## Files
 
-(HungerGames_recreation_betting_simulator.py)[HungerGames_recreation_betting_simulator.py]
+[HungerGames_recreation_betting_simulator.py](HungerGames_recreation_betting_simulator.py)

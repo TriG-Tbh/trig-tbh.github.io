@@ -10,4 +10,4 @@ Never worked.
 
 ## Files
 
-(AutoReportBot.py)[AutoReportBot.py]
+[AutoReportBot.py](AutoReportBot.py)

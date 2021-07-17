@@ -8,4 +8,4 @@ A test of the Wolfram Alpha API.
 
 ## Files
 
-(WRA_test.py)[WRA_test.py]
+[WRA_test.py](WRA_test.py)

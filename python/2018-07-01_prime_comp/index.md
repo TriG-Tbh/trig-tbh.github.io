@@ -8,4 +8,4 @@ A shortened calculator that determines if a number is prime.
 
 ## Files
 
-(prime_comp.py)[prime_comp.py]
+[prime_comp.py](prime_comp.py)

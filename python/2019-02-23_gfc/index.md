@@ -8,4 +8,4 @@ Simplifies a fraction (assuming it's number 1 / number 2)
 
 ## Files
 
-(gfc.py)[gfc.py]
+[gfc.py](gfc.py)

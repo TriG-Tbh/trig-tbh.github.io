@@ -10,4 +10,4 @@ This was created because SenseHAT displays don't automatically clear after a scr
 
 ## Files
 
-(sensehat_cleanup.py)[sensehat_cleanup.py]
+[sensehat_cleanup.py](sensehat_cleanup.py)

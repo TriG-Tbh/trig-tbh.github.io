@@ -8,4 +8,4 @@ A simple chatbot whose only purpose in life was to be rude to the user.
 
 ## Files
 
-(SassBot.py)[SassBot.py]
+[SassBot.py](SassBot.py)

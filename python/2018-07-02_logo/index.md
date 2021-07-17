@@ -10,4 +10,4 @@ It doesn't look all that bad.
 
 ## Files
 
-(logo.py)[logo.py]
+[logo.py](logo.py)

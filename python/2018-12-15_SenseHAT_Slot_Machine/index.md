@@ -8,4 +8,4 @@ A slot machine game made with a SenseHAT.
 
 ## Files
 
-(SenseHAT Slot Machine.py)[SenseHAT Slot Machine.py]
+[SenseHAT Slot Machine.py](SenseHAT Slot Machine.py)

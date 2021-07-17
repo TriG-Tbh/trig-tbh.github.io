@@ -10,4 +10,4 @@ It should be noted that the video itself is unavailable.
 
 ## Files
 
-(openbrowserthing.py)[openbrowserthing.py]
+[openbrowserthing.py](openbrowserthing.py)

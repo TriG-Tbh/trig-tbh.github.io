@@ -8,4 +8,4 @@ Supposedly a Pygame test?
 
 ## Files
 
-(thing_test.py)[thing_test.py]
+[thing_test.py](thing_test.py)

@@ -8,4 +8,4 @@ A test file that would remove the first and last characters from a string.
 
 ## Files
 
-(testthing.py)[testthing.py]
+[testthing.py](testthing.py)

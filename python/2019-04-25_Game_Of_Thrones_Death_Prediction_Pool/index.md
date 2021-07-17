@@ -12,4 +12,4 @@ I still haven't seen a single episode.
 
 ## Files
 
-(Game Of Thrones Death Prediction Pool.py)[Game Of Thrones Death Prediction Pool.py]
+[Game Of Thrones Death Prediction Pool.py](Game Of Thrones Death Prediction Pool.py)
