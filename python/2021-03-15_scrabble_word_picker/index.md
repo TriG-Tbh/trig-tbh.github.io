@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # scrabble_word_picker
 
 ## Date: 2021-03-15
@@ -11,3 +13,9 @@ This was my original APCSP Create Task idea, and in fact was the original *progr
 Unfortunately, my teacher refused to grade the programs if they weren't written in JavaScript, and would score us lower if the files we submitted to the CollegeBoard did not match the files we submitted to him in class.
 
 **Thanks**, Mr. B. *So* helpful.
+
+-----
+
+## Files
+
+[scrabble_word_picker.py](scrabble_word_picker.py)

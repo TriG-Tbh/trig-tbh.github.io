@@ -212,23 +212,23 @@
 
 [2020-04-24: Anti Lock-Out](2020-04-24_Anti_Lock-Out)
 
-[2020-05-19 - User Posts](2020-05-19_User_Posts)
-
 [2020-05-19: Get Time](2020-05-19_Get_Time)
+
+[2020-05-19: User Posts](2020-05-19_User_Posts)
 
 [2020-05-29: HungerGames recreation betting simulator Remake (5-29-2020)](2020-05-29_HungerGames_recreation_betting_simulator_Remake_(5-29-2020))
 
 [2020-08-15: HungerGames recreation betting simulator 2](2020-08-15_HungerGames_recreation_betting_simulator_2)
 
-[2020-09-13 - Stock Tracker](2020-09-13_Stock_Tracker)
+[2020-09-13: Stock Tracker](2020-09-13_Stock_Tracker)
 
-[2020-12-11 - Stitch Frames](2020-12-11_Stitch_Frames)
+[2020-12-11: Stitch Frames](2020-12-11_Stitch_Frames)
 
-[2021-03-03 - Friday Night Funkin Keymapper](2021-03-03_Friday_Night_Funkin_Keymapper)
+[2021-03-03: Friday Night Funkin Keymapper](2021-03-03_Friday_Night_Funkin_Keymapper)
 
-[2021-03-15 - scrabble: word picker](2021-03-15_scrabble_word_picker)
+[2021-03-15: scrabble word picker](2021-03-15_scrabble_word_picker)
 
-[2021-04-04 - AniSTRM](2021-04-04_AniSTRM)
+[2021-04-04: AniSTRM](2021-04-04_AniSTRM)
 
-[2021-05-09 - Luhn-Complicit Number Generator](2021-05-09_Luhn-Complicit_Number_Generator)
+[2021-05-09: Luhn-Complicit Number Generator](2021-05-09_Luhn-Complicit_Number_Generator)
 
