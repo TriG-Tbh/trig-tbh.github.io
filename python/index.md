@@ -146,11 +146,17 @@
 
 [2019-06-21: Primes](2019-06-21_Primes)
 
+[2019-07-22: terrarium](2019-07-22_terrarium)
+
 [2019-07-29: Discord Token Grabber](2019-07-29_Discord_Token_Grabber)
+
+[2019-08-28: Push To Heroku](2019-08-28_Push_To_Heroku)
 
 [2019-09-10: DNS Server](2019-09-10_DNS_Server)
 
 [2019-09-28: Run Executable As Admin](2019-09-28_Run_Executable_As_Admin)
+
+[2019-10-10: Tier List](2019-10-10_Tier_List)
 
 [2019-10-20: channelscanning](2019-10-20_channelscanning)
 
@@ -182,13 +188,47 @@
 
 [2019-11-08: Python Keylogger](2019-11-08_Python_Keylogger)
 
+[2019-11-09: URL Shortener](2019-11-09_URL_Shortener)
+
 [2019-11-20: Brute Force Cracking](2019-11-20_Brute_Force_Cracking)
+
+[2019-12-03: Realistic Pasting](2019-12-03_Realistic_Pasting)
 
 [2019-12-06: Worm](2019-12-06_Worm)
 
 [2019-12-15: test](2019-12-15_test)
 
+[2020-01-17: Spam Click](2020-01-17_Spam_Click)
+
+[2020-01-19: Image to ASCII](2020-01-19_Image_to_ASCII)
+
+[2020-02-22: MongoDB Test](2020-02-22_MongoDB_Test)
+
+[2020-03-23: Ammonomicon](2020-03-23_Ammonomicon)
+
+[2020-04-07: Jitter Mouse](2020-04-07_Jitter_Mouse)
+
+[2020-04-19: RTS](2020-04-19_RTS)
+
+[2020-04-24: Anti Lock-Out](2020-04-24_Anti_Lock-Out)
+
+[2020-05-19 - User Posts](2020-05-19_User_Posts)
+
+[2020-05-19: Get Time](2020-05-19_Get_Time)
+
 [2020-05-29: HungerGames recreation betting simulator Remake (5-29-2020)](2020-05-29_HungerGames_recreation_betting_simulator_Remake_(5-29-2020))
 
 [2020-08-15: HungerGames recreation betting simulator 2](2020-08-15_HungerGames_recreation_betting_simulator_2)
+
+[2020-09-13 - Stock Tracker](2020-09-13_Stock_Tracker)
+
+[2020-12-11 - Stitch Frames](2020-12-11_Stitch_Frames)
+
+[2021-03-03 - Friday Night Funkin Keymapper](2021-03-03_Friday_Night_Funkin_Keymapper)
+
+[2021-03-15 - scrabble: word picker](2021-03-15_scrabble_word_picker)
+
+[2021-04-04 - AniSTRM](2021-04-04_AniSTRM)
+
+[2021-05-09 - Luhn-Complicit Number Generator](2021-05-09_Luhn-Complicit_Number_Generator)
 
