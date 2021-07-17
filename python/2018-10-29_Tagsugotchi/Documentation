@@ -1,0 +1,14 @@
+When you first start Tagsugotchi, you get a free Tagsugotchi. Tagsugotchi normally cost 200 T-Bucks
+You also start with 100 T-Bucks, 100 water, 100 food and 100 cleaning supplies.
+When you get a Tagsugotchi, all of it's stats are maxed out (apart from Level and XP)
+
+Type "clean" to clean your Tagsugotchi
+Type "feed" to feed your Tagsugotchi
+Type "give water" to give your Tagsugotchi water
+You can't do any of these if your Tagsugotchi isn't Idle.
+Note: Your Tagsugotchi's sanitation, hunger and thirst levels can go above 100. This is normal. Your food, water and cleaning supplies, however, cannot.
+Note: If the average of these levels falls below 50, your Tagsugotchi will feel neglected and run away. You lose your Tagsugotchi and all of its stats (including name) are zeroed out.
+
+Type "shop" to access the shop
+In the shop you can buy food, water and cleaning supplies.
+You can only have 100 of each

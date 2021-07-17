@@ -74,6 +74,10 @@
 
 [2018-09-18: turtle test](2018-09-18_turtle_test)
 
+[2018-10-06: Pygame Invaders files](2018-10-06_Pygame_Invaders_files)
+
+[2018-10-07: SenseHAT Arcade](2018-10-07_SenseHAT_Arcade)
+
 [2018-10-20: bubbleblaster](2018-10-20_bubbleblaster)
 
 [2018-10-20: test1](2018-10-20_test1)
@@ -82,13 +86,19 @@
 
 [2018-10-23: PEMDAS](2018-10-23_PEMDAS)
 
+[2018-10-29: Tagsugotchi](2018-10-29_Tagsugotchi)
+
 [2018-11-03: sensehat demo](2018-11-03_sensehat_demo)
+
+[2018-11-07: Tatsugotchi](2018-11-07_Tatsugotchi)
 
 [2018-11-10: Ssundee](2018-11-10_Ssundee)
 
 [2018-11-11: Keylogger](2018-11-11_Keylogger)
 
 [2018-11-28: Undertale Speedrun Tool](2018-11-28_Undertale_Speedrun_Tool)
+
+[2018-12-14: Sensehat-JSAB](2018-12-14_Sensehat-JSAB)
 
 [2018-12-15: SenseHAT Slot Machine](2018-12-15_SenseHAT_Slot_Machine)
 
@@ -99,6 +109,10 @@
 [2018-12-16: Annoying Delete](2018-12-16_Annoying_Delete)
 
 [2019-01-18: AutoReportBot](2019-01-18_AutoReportBot)
+
+[2019-01-19: Terrarium](2019-01-19_Terrarium)
+
+[2019-01-25: placeholder name for love game thing](2019-01-25_placeholder_name_for_love_game_thing)
 
 [2019-02-02: Click Read tool](2019-02-02_Click_Read_tool)
 
@@ -115,6 +129,8 @@
 [2019-03-07: errorbox test](2019-03-07_errorbox_test)
 
 [2019-04-05: atomtest](2019-04-05_atomtest)
+
+[2019-04-11: Online game tutorial](2019-04-11_Online_game_tutorial)
 
 [2019-04-12: inputbox](2019-04-12_inputbox)
 
