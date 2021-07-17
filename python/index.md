@@ -1,5 +1,7 @@
 [Back to main page](/)
 
+## NOTE: this is still a work in progress. There's a lot I still need to add.
+
 # Python Projects
 
 [2015-12-21 through 2016-10-29: The first projects](2015-12-21_through_2016-10-29_The_first_projects)
