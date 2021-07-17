@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # password
 
 ## Date: 2017-05-16

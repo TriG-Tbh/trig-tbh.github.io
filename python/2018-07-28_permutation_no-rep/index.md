@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # permutation_no-rep
 
 ## Date: 2018-07-28

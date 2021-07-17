@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # Primes
 
 ## Date: 2019-06-21

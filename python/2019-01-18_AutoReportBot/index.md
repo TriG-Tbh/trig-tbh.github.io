@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # AutoReportBot
 
 ## Date: 2019-01-18

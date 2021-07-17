@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # length_algorithm
 
 ## Date: 2016-11-20

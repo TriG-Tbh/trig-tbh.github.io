@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # HungerGames_recreation_betting_simulator Remake (5-29-2020)
 
 ## Date: 2020-05-29

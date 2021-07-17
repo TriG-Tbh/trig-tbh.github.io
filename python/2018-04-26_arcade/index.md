@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # arcade
 
 ## Date: 2018-04-26

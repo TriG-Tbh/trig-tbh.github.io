@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # calculator
 
 ## Date: 2018-04-20

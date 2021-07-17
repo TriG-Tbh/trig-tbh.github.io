@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # lottery
 
 ## Date: 2017-02-06

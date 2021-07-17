@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # parabola calculator
 
 ## Date: 2018-09-16

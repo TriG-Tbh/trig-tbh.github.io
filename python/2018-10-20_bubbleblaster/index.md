@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # bubbleblaster
 
 ## Date: 2018-10-20

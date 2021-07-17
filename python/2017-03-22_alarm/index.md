@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # alarm
 
 ## Date: 2017-03-22

@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # passcode
 
 ## Date: 2018-04-05

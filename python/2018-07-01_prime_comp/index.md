@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # prime_comp
 
 ## Date: 2018-07-01

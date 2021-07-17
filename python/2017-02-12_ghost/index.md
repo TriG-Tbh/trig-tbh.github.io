@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # ghost
 
 ## Date: 2017-02-12

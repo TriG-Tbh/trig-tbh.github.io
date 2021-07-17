@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # SenseHAT Slot Machine
 
 ## Date: 2018-12-15

@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # HungerGames_recreation_betting_simulator_2
 
 ## Date: 2020-08-15

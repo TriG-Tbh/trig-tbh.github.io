@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # Graphing Calculator
 
 ## Date: 2018-10-23

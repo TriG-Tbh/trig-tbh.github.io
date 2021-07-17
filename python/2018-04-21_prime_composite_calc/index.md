@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # prime_composite_calc
 
 ## Date: 2018-04-21

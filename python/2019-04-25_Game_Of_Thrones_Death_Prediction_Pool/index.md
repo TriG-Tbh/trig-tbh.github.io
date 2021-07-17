@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # Game Of Thrones Death Prediction Pool
 
 ## Date: 2019-04-25

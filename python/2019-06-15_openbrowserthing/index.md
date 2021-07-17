@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 # openbrowserthing
 
 ## Date: 2019-06-15
