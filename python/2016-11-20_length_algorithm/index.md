@@ -8,9 +8,8 @@ Using the length of that new number, they'd spell that out, and continue on and 
 
 Example: 10 => 3 => 5 => 4 = 4
 
-
 -----
 
 ## Files
 
-(length_algorithm.py)[length_algorithm.py]
+[length_algorithm.py](length_algorithm.py)

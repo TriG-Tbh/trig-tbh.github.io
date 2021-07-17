@@ -8,4 +8,4 @@ A random number game where a ghost is behind one of three doors, and the user ha
 
 ## Files
 
-(ghost.py)[ghost.py]
+[ghost.py](ghost.py)

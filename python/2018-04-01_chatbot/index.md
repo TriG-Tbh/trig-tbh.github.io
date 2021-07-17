@@ -8,4 +8,4 @@ An ELIZA implementation in Python. I am 100% confident that this code is not min
 
 ## Files
 
-(chatbot.py)[chatbot.py]
+[chatbot.py](chatbot.py)

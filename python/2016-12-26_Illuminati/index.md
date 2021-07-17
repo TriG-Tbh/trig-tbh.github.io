@@ -9,4 +9,4 @@ It was never finished.
 
 ## Files
 
-(Illuminati.py)[Illuminati.py]
+[Illuminati.py](Illuminati.py)

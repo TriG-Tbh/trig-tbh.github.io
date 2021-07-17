@@ -8,4 +8,4 @@ A calculator that determines the factors of a number, and whether or not that nu
 
 ## Files
 
-(prime_composite_calc.py)[prime_composite_calc.py]
+[prime_composite_calc.py](prime_composite_calc.py)

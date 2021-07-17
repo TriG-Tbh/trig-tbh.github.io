@@ -23,64 +23,64 @@ There isn't *too* much worth noting.
 
 ## Files
 
-(ageguess.py)[ageguess.py]
+[ageguess.py](ageguess.py)
 
-(alien.py)[alien.py]
+[alien.py](alien.py)
 
-(birthday.py)[birthday.py]
+[birthday.py](birthday.py)
 
-(countdown.py)[countdown.py]
+[countdown.py](countdown.py)
 
-(Dont_stop_just_drop.py)[Dont_stop_just_drop.py]
+[Dont_stop_just_drop.py](Dont_stop_just_drop.py)
 
-(drawing_machine.py)[drawing_machine.py]
+[drawing_machine.py](drawing_machine.py)
 
-(drawing_turtle_thing.py)[drawing_turtle_thing.py]
+[drawing_turtle_thing.py](drawing_turtle_thing.py)
 
-(epicness.py)[epicness.py]
+[epicness.py](epicness.py)
 
-(hello.py)[hello.py]
+[hello.py](hello.py)
 
-(hellominecraftworld.py)[hellominecraftworld.py]
+[hellominecraftworld.py](hellominecraftworld.py)
 
-(holiday.py)[holiday.py]
+[holiday.py](holiday.py)
 
-(hopefully_working_bubble_blaster.py)[hopefully_working_bubble_blaster.py]
+[hopefully_working_bubble_blaster.py](hopefully_working_bubble_blaster.py)
 
-(is_terraforming.py)[is_terraforming.py]
+[is_terraforming.py](is_terraforming.py)
 
-(javascript.py)[javascript.py]
+[javascript.py](javascript.py)
 
-(just_a_test.py)[just_a_test.py]
+[just_a_test.py](just_a_test.py)
 
-(love_machine.py)[love_machine.py]
+[love_machine.py](love_machine.py)
 
-(math_flash.py)[math_flash.py]
+[math_flash.py](math_flash.py)
 
-(math_flash2.py)[math_flash2.py]
+[math_flash2.py](math_flash2.py)
 
-(mclavatrap.py)[mclavatrap.py]
+[mclavatrap.py](mclavatrap.py)
 
-(mcLava_Trap_Mod.py)[mcLava_Trap_Mod.py]
+[mcLava_Trap_Mod.py](mcLava_Trap_Mod.py)
 
-(mcNatural_Disasters_Mod.py)[mcNatural_Disasters_Mod.py]
+[mcNatural_Disasters_Mod.py](mcNatural_Disasters_Mod.py)
 
-(mcTNT_Run_Mod.py)[mcTNT_Run_Mod.py]
+[mcTNT_Run_Mod.py](mcTNT_Run_Mod.py)
 
-(new_coding_language.py)[new_coding_language.py]
+[new_coding_language.py](new_coding_language.py)
 
-(new_creation.py)[new_creation.py]
+[new_creation.py](new_creation.py)
 
-(new_turtle.py)[new_turtle.py]
+[new_turtle.py](new_turtle.py)
 
-(numberguess.py)[numberguess.py]
+[numberguess.py](numberguess.py)
 
-(numerguessuploaded.py)[numerguessuploaded.py]
+[numerguessuploaded.py](numerguessuploaded.py)
 
-(screen_testing.py)[screen_testing.py]
+[screen_testing.py](screen_testing.py)
 
-(skit_randomizer.py)[skit_randomizer.py]
+[skit_randomizer.py](skit_randomizer.py)
 
-(tkinter_testing.py)[tkinter_testing.py]
+[tkinter_testing.py](tkinter_testing.py)
 
-(variable_calculator.py)[variable_calculator.py]
+[variable_calculator.py](variable_calculator.py)

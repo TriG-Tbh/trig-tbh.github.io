@@ -8,4 +8,4 @@ A random number game
 
 ## Files
 
-(lottery.py)[lottery.py]
+[lottery.py](lottery.py)
