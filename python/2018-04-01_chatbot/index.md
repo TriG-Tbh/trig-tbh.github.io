@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (chatbot)[/python/2018-04-01_chatbot]
+[Main page](/) / [Python Projetcs](/python) / [chatbot](/python/2018-04-01_chatbot)
 
 # chatbot
 

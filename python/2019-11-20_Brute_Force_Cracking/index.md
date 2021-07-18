@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Brute Force Cracking)[/python/2019-11-20_Brute_Force_Cracking]
+[Main page](/) / [Python Projetcs](/python) / [Brute Force Cracking](/python/2019-11-20_Brute_Force_Cracking)
 
 # Brute Force Cracking
 

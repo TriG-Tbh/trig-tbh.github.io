@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Jitter Mouse)[/python/2020-04-07_Jitter_Mouse]
+[Main page](/) / [Python Projetcs](/python) / [Jitter Mouse](/python/2020-04-07_Jitter_Mouse)
 
 # Jitter Mouse
 

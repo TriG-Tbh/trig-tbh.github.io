@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (troll)[/python/2018-04-22_troll]
+[Main page](/) / [Python Projetcs](/python) / [troll](/python/2018-04-22_troll)
 
 # troll
 

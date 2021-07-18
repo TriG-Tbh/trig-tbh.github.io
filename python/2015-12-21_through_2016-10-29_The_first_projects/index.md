@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (The first projects)[/python/2015-12-21_through_2016-10-29_The_first_projects]
+[Main page](/) / [Python Projetcs](/python) / [The first projects](/python/2015-12-21_through_2016-10-29_The_first_projects)
 
 # The first projects
 

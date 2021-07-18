@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (eliza)[/python/2018-07-16_eliza]
+[Main page](/) / [Python Projetcs](/python) / [eliza](/python/2018-07-16_eliza)
 
 # eliza
 

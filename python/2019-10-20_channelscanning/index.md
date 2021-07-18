@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (channelscanning)[/python/2019-10-20_channelscanning]
+[Main page](/) / [Python Projetcs](/python) / [channelscanning](/python/2019-10-20_channelscanning)
 
 # channelscanning
 

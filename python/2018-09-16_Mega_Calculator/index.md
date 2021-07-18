@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Mega Calculator)[/python/2018-09-16_Mega_Calculator]
+[Main page](/) / [Python Projetcs](/python) / [Mega Calculator](/python/2018-09-16_Mega_Calculator)
 
 # Mega Calculator
 

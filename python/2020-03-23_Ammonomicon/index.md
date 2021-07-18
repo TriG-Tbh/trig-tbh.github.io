@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Ammonomicon)[/python/2020-03-23_Ammonomicon]
+[Main page](/) / [Python Projetcs](/python) / [Ammonomicon](/python/2020-03-23_Ammonomicon)
 
 # Ammonomicon
 

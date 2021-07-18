@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (api)[/python/2018-07-12_api]
+[Main page](/) / [Python Projetcs](/python) / [api](/python/2018-07-12_api)
 
 # api
 

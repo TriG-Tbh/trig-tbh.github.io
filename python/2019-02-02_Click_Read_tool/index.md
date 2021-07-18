@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Click Read tool)[/python/2019-02-02_Click_Read_tool]
+[Main page](/) / [Python Projetcs](/python) / [Click Read tool](/python/2019-02-02_Click_Read_tool)
 
 # Click Read tool
 

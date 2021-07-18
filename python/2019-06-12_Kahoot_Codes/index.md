@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Kahoot Codes)[/python/2019-06-12_Kahoot_Codes]
+[Main page](/) / [Python Projetcs](/python) / [Kahoot Codes](/python/2019-06-12_Kahoot_Codes)
 
 # Kahoot Codes
 

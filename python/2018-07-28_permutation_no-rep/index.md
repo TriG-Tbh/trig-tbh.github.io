@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (permutation_no-rep)[/python/2018-07-28_permutation_no-rep]
+[Main page](/) / [Python Projetcs](/python) / [permutation_no-rep](/python/2018-07-28_permutation_no-rep)
 
 # permutation_no-rep
 

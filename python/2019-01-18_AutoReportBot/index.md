@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (AutoReportBot)[/python/2019-01-18_AutoReportBot]
+[Main page](/) / [Python Projetcs](/python) / [AutoReportBot](/python/2019-01-18_AutoReportBot)
 
 # AutoReportBot
 

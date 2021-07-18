@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (RTS)[/python/2020-04-19_RTS]
+[Main page](/) / [Python Projetcs](/python) / [RTS](/python/2020-04-19_RTS)
 
 # RTS
 

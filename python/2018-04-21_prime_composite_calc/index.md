@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (prime_composite_calc)[/python/2018-04-21_prime_composite_calc]
+[Main page](/) / [Python Projetcs](/python) / [prime_composite_calc](/python/2018-04-21_prime_composite_calc)
 
 # prime_composite_calc
 

@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (validation)[/python/2019-11-01_validation]
+[Main page](/) / [Python Projetcs](/python) / [validation](/python/2019-11-01_validation)
 
 # validation
 

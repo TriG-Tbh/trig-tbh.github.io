@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (bubbleblaster)[/python/2018-10-20_bubbleblaster]
+[Main page](/) / [Python Projetcs](/python) / [bubbleblaster](/python/2018-10-20_bubbleblaster)
 
 # bubbleblaster
 

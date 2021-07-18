@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (sensehat_demo)[/python/2018-11-03_sensehat_demo]
+[Main page](/) / [Python Projetcs](/python) / [sensehat_demo](/python/2018-11-03_sensehat_demo)
 
 # sensehat_demo
 

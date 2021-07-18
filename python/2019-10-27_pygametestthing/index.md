@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (pygametestthing)[/python/2019-10-27_pygametestthing]
+[Main page](/) / [Python Projetcs](/python) / [pygametestthing](/python/2019-10-27_pygametestthing)
 
 # pygametestthing
 

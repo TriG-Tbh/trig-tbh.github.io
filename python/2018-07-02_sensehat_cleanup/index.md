@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (sensehat_cleanup)[/python/2018-07-02_sensehat_cleanup]
+[Main page](/) / [Python Projetcs](/python) / [sensehat_cleanup](/python/2018-07-02_sensehat_cleanup)
 
 # sensehat_cleanup
 

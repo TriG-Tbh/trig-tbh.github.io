@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (length_algorithm)[/python/2016-11-20_length_algorithm]
+[Main page](/) / [Python Projetcs](/python) / [length_algorithm](/python/2016-11-20_length_algorithm)
 
 # length_algorithm
 

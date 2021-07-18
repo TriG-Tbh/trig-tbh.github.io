@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (HungerGames_recreation_betting_simulator)[/python/2018-06-03_HungerGames_recreation_betting_simulator]
+[Main page](/) / [Python Projetcs](/python) / [HungerGames_recreation_betting_simulator](/python/2018-06-03_HungerGames_recreation_betting_simulator)
 
 # HungerGames_recreation_betting_simulator
 

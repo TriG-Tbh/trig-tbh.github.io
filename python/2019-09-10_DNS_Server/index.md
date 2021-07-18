@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (DNS Server)[/python/2019-09-10_DNS_Server]
+[Main page](/) / [Python Projetcs](/python) / [DNS Server](/python/2019-09-10_DNS_Server)
 
 # DNS Server
 

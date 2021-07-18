@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / (Graphing Calculator)[/python/2018-10-23_Graphing_Calculator]
+[Main page](/) / [Python Projetcs](/python) / [Graphing Calculator](/python/2018-10-23_Graphing_Calculator)
 
 # Graphing Calculator
 
