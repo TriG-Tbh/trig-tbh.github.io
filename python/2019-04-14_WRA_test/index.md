@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [WRA_test](/python/2019-04-14_WRA_test)
+[Main Page](/) / [Python Projects](/python) / [WRA_test](/python/2019-04-14_WRA_test)
 
 # WRA_test
 

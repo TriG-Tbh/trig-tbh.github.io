@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [wut](/python/2018-12-15_wut)
+[Main Page](/) / [Python Projects](/python) / [wut](/python/2018-12-15_wut)
 
 # wut
 

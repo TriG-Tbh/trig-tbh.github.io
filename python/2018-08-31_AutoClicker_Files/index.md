@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [AutoClicker Files](/python/2018-08-31_AutoClicker_Files)
+[Main Page](/) / [Python Projects](/python) / [AutoClicker Files](/python/2018-08-31_AutoClicker_Files)
 
 # AutoClicker Files
 

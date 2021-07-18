@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [socketthing](/python/2019-11-03_socketthing)
+[Main Page](/) / [Python Projects](/python) / [socketthing](/python/2019-11-03_socketthing)
 
 # socketthing
 

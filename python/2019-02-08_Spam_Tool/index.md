@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [Spam Tool](/python/2019-02-08_Spam_Tool)
+[Main Page](/) / [Python Projects](/python) / [Spam Tool](/python/2019-02-08_Spam_Tool)
 
 # Spam Tool
 

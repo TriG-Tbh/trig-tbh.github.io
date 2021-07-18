@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [NMAP Scanner](/python/2019-11-03_NMAP_Scanner)
+[Main Page](/) / [Python Projects](/python) / [NMAP Scanner](/python/2019-11-03_NMAP_Scanner)
 
 # NMAP Scanner
 

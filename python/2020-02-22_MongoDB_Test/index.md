@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [MongoDB Test](/python/2020-02-22_MongoDB_Test)
+[Main Page](/) / [Python Projects](/python) / [MongoDB Test](/python/2020-02-22_MongoDB_Test)
 
 # MongoDB Test
 

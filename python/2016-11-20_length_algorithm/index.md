@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [length_algorithm](/python/2016-11-20_length_algorithm)
+[Main Page](/) / [Python Projects](/python) / [length_algorithm](/python/2016-11-20_length_algorithm)
 
 # length_algorithm
 

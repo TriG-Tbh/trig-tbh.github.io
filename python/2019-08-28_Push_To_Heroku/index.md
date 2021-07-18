@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [Push To Heroku](/python/2019-08-28_Push_To_Heroku)
+[Main Page](/) / [Python Projects](/python) / [Push To Heroku](/python/2019-08-28_Push_To_Heroku)
 
 # Push To Heroku
 

@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [logo](/python/2018-07-02_logo)
+[Main Page](/) / [Python Projects](/python) / [logo](/python/2018-07-02_logo)
 
 # logo
 

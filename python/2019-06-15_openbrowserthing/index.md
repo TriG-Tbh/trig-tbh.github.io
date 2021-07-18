@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [openbrowserthing](/python/2019-06-15_openbrowserthing)
+[Main Page](/) / [Python Projects](/python) / [openbrowserthing](/python/2019-06-15_openbrowserthing)
 
 # openbrowserthing
 

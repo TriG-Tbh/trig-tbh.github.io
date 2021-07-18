@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [Pygame Invaders files](/python/2018-10-06_Pygame_Invaders_files)
+[Main Page](/) / [Python Projects](/python) / [Pygame Invaders files](/python/2018-10-06_Pygame_Invaders_files)
 
 # Pygame Invaders files
 

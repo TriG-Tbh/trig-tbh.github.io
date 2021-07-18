@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [terrarium](/python/2019-07-22_terrarium)
+[Main Page](/) / [Python Projects](/python) / [terrarium](/python/2019-07-22_terrarium)
 
 # terrarium
 

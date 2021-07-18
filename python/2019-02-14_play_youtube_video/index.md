@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projects](/python) / [play youtube video](/python/2019-02-14_play_youtube_video)
+[Main Page](/) / [Python Projects](/python) / [play youtube video](/python/2019-02-14_play_youtube_video)
 
 # play youtube video
 
