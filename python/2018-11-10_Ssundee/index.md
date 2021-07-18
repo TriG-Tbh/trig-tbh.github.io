@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Ssundee)[/python/2018-11-10_Ssundee]
 
 # Ssundee
 

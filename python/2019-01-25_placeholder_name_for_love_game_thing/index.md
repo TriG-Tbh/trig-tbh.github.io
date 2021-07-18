@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (placeholder name for love game thing)[/python/2019-01-25_placeholder_name_for_love_game_thing]
 
 # placeholder name for love game thing
 

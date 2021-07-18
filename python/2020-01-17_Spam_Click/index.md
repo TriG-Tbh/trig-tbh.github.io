@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Spam Click)[/python/2020-01-17_Spam_Click]
 
 # Spam Click
 

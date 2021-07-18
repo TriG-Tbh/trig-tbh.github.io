@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (permutation_no-rep)[/python/2018-07-28_permutation_no-rep]
 
 # permutation_no-rep
 

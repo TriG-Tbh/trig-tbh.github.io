@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Realistic Pasting)[/python/2019-12-03_Realistic_Pasting]
 
 # Realistic Pasting
 

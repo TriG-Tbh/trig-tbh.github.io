@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Discord Token Grabber)[/python/2019-07-29_Discord_Token_Grabber]
 
 # Discord Token Grabber
 

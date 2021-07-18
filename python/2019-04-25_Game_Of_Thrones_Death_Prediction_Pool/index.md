@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Game Of Thrones Death Prediction Pool)[/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool]
 
 # Game Of Thrones Death Prediction Pool
 

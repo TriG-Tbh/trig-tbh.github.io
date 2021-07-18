@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (SHA1 Hash Brute-Forcer)[/python/2019-11-04_SHA1_Hash_Brute-Forcer]
 
 # SHA1 Hash Brute-Forcer
 

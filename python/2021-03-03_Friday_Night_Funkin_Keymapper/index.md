@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Friday Night Funkin Keymapper)[/python/2021-03-03_Friday_Night_Funkin_Keymapper]
 
 # Friday Night Funkin Keymapper
 

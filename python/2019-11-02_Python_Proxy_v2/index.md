@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Python Proxy v2)[/python/2019-11-02_Python_Proxy_v2]
 
 # Python Proxy v2
 

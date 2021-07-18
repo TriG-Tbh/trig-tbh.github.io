@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Brute Force Cracking)[/python/2019-11-20_Brute_Force_Cracking]
 
 # Brute Force Cracking
 

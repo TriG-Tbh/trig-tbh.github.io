@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (sensehat_cleanup)[/python/2018-07-02_sensehat_cleanup]
 
 # sensehat_cleanup
 

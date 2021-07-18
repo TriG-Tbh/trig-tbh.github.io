@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (scrabble_word_picker)[/python/2021-03-15_scrabble_word_picker]
 
 # scrabble_word_picker
 

@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (SenseHAT Slot Machine)[/python/2018-12-15_SenseHAT_Slot_Machine]
 
 # SenseHAT Slot Machine
 

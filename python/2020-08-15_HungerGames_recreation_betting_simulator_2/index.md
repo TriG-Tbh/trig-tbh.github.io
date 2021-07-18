@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (HungerGames_recreation_betting_simulator_2)[/python/2020-08-15_HungerGames_recreation_betting_simulator_2]
 
 # HungerGames_recreation_betting_simulator_2
 

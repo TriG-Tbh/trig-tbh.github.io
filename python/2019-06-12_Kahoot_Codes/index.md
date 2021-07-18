@@ -1,4 +1,4 @@
-[Main page](/) / [python](/python) / (2021-05-09: Luhn-Complicit Number Generator)[2021-05-09: Luhn-Complicit Number Generator]
+[Main page](/) / [Python Projetcs](/python) / (Kahoot Codes)[/python/2019-06-12_Kahoot_Codes]
 
 # Kahoot Codes
 
