@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [question_answer](/python/2018-02-25_question_answer)
+[Main page](/) / [Python Projects](/python) / [question_answer](/python/2018-02-25_question_answer)
 
 # question_answer
 

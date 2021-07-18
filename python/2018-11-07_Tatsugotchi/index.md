@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Tatsugotchi](/python/2018-11-07_Tatsugotchi)
+[Main page](/) / [Python Projects](/python) / [Tatsugotchi](/python/2018-11-07_Tatsugotchi)
 
 # Tatsugotchi
 

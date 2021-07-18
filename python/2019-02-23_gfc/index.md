@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [gfc](/python/2019-02-23_gfc)
+[Main page](/) / [Python Projects](/python) / [gfc](/python/2019-02-23_gfc)
 
 # gfc
 

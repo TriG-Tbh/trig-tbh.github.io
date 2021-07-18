@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [SenseHAT Slot Machine](/python/2018-12-15_SenseHAT_Slot_Machine)
+[Main page](/) / [Python Projects](/python) / [SenseHAT Slot Machine](/python/2018-12-15_SenseHAT_Slot_Machine)
 
 # SenseHAT Slot Machine
 

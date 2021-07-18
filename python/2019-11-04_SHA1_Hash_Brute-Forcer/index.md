@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [SHA1 Hash Brute-Forcer](/python/2019-11-04_SHA1_Hash_Brute-Forcer)
+[Main page](/) / [Python Projects](/python) / [SHA1 Hash Brute-Forcer](/python/2019-11-04_SHA1_Hash_Brute-Forcer)
 
 # SHA1 Hash Brute-Forcer
 

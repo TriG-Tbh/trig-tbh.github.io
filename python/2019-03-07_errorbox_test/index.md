@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [errorbox_test](/python/2019-03-07_errorbox_test)
+[Main page](/) / [Python Projects](/python) / [errorbox_test](/python/2019-03-07_errorbox_test)
 
 # errorbox_test
 

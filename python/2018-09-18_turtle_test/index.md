@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [turtle test](/python/2018-09-18_turtle_test)
+[Main page](/) / [Python Projects](/python) / [turtle test](/python/2018-09-18_turtle_test)
 
 # turtle test
 

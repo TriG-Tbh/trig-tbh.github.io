@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Advanced Keylogger](/python/2019-11-06_Advanced_Keylogger)
+[Main page](/) / [Python Projects](/python) / [Advanced Keylogger](/python/2019-11-06_Advanced_Keylogger)
 
 # Advanced Keylogger
 

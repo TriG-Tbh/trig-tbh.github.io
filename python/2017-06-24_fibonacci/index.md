@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [fibonacci](/python/2017-06-24_fibonacci)
+[Main page](/) / [Python Projects](/python) / [fibonacci](/python/2017-06-24_fibonacci)
 
 # fibonacci
 

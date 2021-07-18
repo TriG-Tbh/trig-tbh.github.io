@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [PEMDAS](/python/2018-10-23_PEMDAS)
+[Main page](/) / [Python Projects](/python) / [PEMDAS](/python/2018-10-23_PEMDAS)
 
 # PEMDAS
 

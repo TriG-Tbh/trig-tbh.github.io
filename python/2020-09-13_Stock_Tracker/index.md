@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Stock Tracker](/python/2020-09-13_Stock_Tracker)
+[Main page](/) / [Python Projects](/python) / [Stock Tracker](/python/2020-09-13_Stock_Tracker)
 
 # Stock Tracker
 

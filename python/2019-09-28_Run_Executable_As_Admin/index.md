@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Run Executable As Admin](/python/2019-09-28_Run_Executable_As_Admin)
+[Main page](/) / [Python Projects](/python) / [Run Executable As Admin](/python/2019-09-28_Run_Executable_As_Admin)
 
 # Run Executable As Admin
 

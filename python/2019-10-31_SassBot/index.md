@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [SassBot](/python/2019-10-31_SassBot)
+[Main page](/) / [Python Projects](/python) / [SassBot](/python/2019-10-31_SassBot)
 
 # SassBot
 

@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [calculator](/python/2018-04-20_calculator)
+[Main page](/) / [Python Projects](/python) / [calculator](/python/2018-04-20_calculator)
 
 # calculator
 

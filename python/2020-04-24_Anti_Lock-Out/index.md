@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Anti Lock-Out](/python/2020-04-24_Anti_Lock-Out)
+[Main page](/) / [Python Projects](/python) / [Anti Lock-Out](/python/2020-04-24_Anti_Lock-Out)
 
 # Anti Lock-Out
 

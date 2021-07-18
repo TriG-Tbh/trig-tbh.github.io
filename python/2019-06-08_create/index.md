@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [create](/python/2019-06-08_create)
+[Main page](/) / [Python Projects](/python) / [create](/python/2019-06-08_create)
 
 # create
 

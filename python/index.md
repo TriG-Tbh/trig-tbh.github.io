@@ -1,4 +1,4 @@
-[Back to main page](/)
+[Main Page](/) / [Python Projects](/python/)
 
 ## NOTE: this is still a work in progress. There's a lot I still need to add.
 

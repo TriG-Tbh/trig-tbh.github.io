@@ -1,4 +1,4 @@
-[Main page](/) / [Python Projetcs](/python) / [Tier List](/python/2019-10-10_Tier_List)
+[Main page](/) / [Python Projects](/python) / [Tier List](/python/2019-10-10_Tier_List)
 
 # Tier List
 
