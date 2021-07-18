@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [AutoReportBot](/python/2019-01-18_AutoReportBot)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [AutoReportBot](/python/2019-01-18_AutoReportBot)](/python/2019-01-18_AutoReportBot)
+
+Main Page](/) / [Python Projects](/python) / [AutoReportBot](/python/2019-01-18_AutoReportBot)
 
 # AutoReportBot
 

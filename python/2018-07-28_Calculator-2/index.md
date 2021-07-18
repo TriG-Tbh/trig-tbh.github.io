@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Calculator-2](/python/2018-07-28_Calculator-2)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Calculator-2](/python/2018-07-28_Calculator-2)](/python/2018-07-28_Calculator-2)
+
+Main Page](/) / [Python Projects](/python) / [Calculator-2](/python/2018-07-28_Calculator-2)
 
 # Calculator-2
 

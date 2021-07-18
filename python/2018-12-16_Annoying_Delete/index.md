@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Annoying Delete](/python/2018-12-16_Annoying_Delete)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Annoying Delete](/python/2018-12-16_Annoying_Delete)](/python/2018-12-16_Annoying_Delete)
+
+Main Page](/) / [Python Projects](/python) / [Annoying Delete](/python/2018-12-16_Annoying_Delete)
 
 # Annoying Delete
 

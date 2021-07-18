@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [User Posts](/python/2020-05-19_User_Posts)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [User Posts](/python/2020-05-19_User_Posts)](/python/2020-05-19_User_Posts)
+
+Main Page](/) / [Python Projects](/python) / [User Posts](/python/2020-05-19_User_Posts)
 
 # User Posts
 

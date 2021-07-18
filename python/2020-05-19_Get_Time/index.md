@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Get Time](/python/2020-05-19_Get_Time)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Get Time](/python/2020-05-19_Get_Time)](/python/2020-05-19_Get_Time)
+
+Main Page](/) / [Python Projects](/python) / [Get Time](/python/2020-05-19_Get_Time)
 
 # Get Time
 

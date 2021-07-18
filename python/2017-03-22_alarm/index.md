@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [alarm](/python/2017-03-22_alarm)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [alarm](/python/2017-03-22_alarm)](/python/2017-03-22_alarm)
+
+Main Page](/) / [Python Projects](/python) / [alarm](/python/2017-03-22_alarm)
 
 # alarm
 

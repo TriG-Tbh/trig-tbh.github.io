@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [arcade](/python/2018-04-26_arcade)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [arcade](/python/2018-04-26_arcade)](/python/2018-04-26_arcade)
+
+Main Page](/) / [Python Projects](/python) / [arcade](/python/2018-04-26_arcade)
 
 # arcade
 

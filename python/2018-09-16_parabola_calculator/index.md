@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [parabola calculator](/python/2018-09-16_parabola_calculator)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [parabola calculator](/python/2018-09-16_parabola_calculator)](/python/2018-09-16_parabola_calculator)
+
+Main Page](/) / [Python Projects](/python) / [parabola calculator](/python/2018-09-16_parabola_calculator)
 
 # parabola calculator
 

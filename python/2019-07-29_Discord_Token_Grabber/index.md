@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Discord Token Grabber](/python/2019-07-29_Discord_Token_Grabber)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Discord Token Grabber](/python/2019-07-29_Discord_Token_Grabber)](/python/2019-07-29_Discord_Token_Grabber)
+
+Main Page](/) / [Python Projects](/python) / [Discord Token Grabber](/python/2019-07-29_Discord_Token_Grabber)
 
 # Discord Token Grabber
 

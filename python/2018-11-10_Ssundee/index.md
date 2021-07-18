@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Ssundee](/python/2018-11-10_Ssundee)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Ssundee](/python/2018-11-10_Ssundee)](/python/2018-11-10_Ssundee)
+
+Main Page](/) / [Python Projects](/python) / [Ssundee](/python/2018-11-10_Ssundee)
 
 # Ssundee
 

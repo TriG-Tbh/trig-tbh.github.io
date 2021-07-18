@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Illuminati](/python/2016-12-26_Illuminati)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Illuminati](/python/2016-12-26_Illuminati)](/python/2016-12-26_Illuminati)
+
+Main Page](/) / [Python Projects](/python) / [Illuminati](/python/2016-12-26_Illuminati)
 
 # Illuminati
 

@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [inputbox](/python/2019-04-12_inputbox)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [inputbox](/python/2019-04-12_inputbox)](/python/2019-04-12_inputbox)
+
+Main Page](/) / [Python Projects](/python) / [inputbox](/python/2019-04-12_inputbox)
 
 # inputbox
 

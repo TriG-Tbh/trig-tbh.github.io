@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Click Read tool](/python/2019-02-02_Click_Read_tool)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Click Read tool](/python/2019-02-02_Click_Read_tool)](/python/2019-02-02_Click_Read_tool)
+
+Main Page](/) / [Python Projects](/python) / [Click Read tool](/python/2019-02-02_Click_Read_tool)
 
 # Click Read tool
 

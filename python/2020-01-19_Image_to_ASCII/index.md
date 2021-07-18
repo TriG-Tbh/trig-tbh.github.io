@@ -1,4 +1,6 @@
-[Main Page](/) / [Python Projects](/python) / [Image to ASCII](/python/2020-01-19_Image_to_ASCII)
+[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Image to ASCII](/python/2020-01-19_Image_to_ASCII)](/python/2020-01-19_Image_to_ASCII)
+
+Main Page](/) / [Python Projects](/python) / [Image to ASCII](/python/2020-01-19_Image_to_ASCII)
 
 # Image to ASCII
 
