@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Space Invaders](/python/2020-04-15_Space_Invaders)
+[Main Page](/) / [Python Projects](/python) / [Space Invaders](/python/2020-03-23_Ammonomicon)
 
 # Space Invaders
 
@@ -15,5 +15,3 @@ An almost-exact replica of a much earlier Space Invaders program, except this ha
 [main.py](main.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

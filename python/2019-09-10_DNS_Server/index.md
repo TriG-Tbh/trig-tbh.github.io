@@ -15,5 +15,3 @@ I think this is missing some required zone files.
 [dns.py](dns.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Connect The Dots](/python/2020-05-22_Connect_The_Dots)
+[Main Page](/) / [Python Projects](/python) / [Connect The Dots](/python/2020-04-23_Vault)
 
 # Connect The Dots
 
@@ -15,5 +15,3 @@ An attempt at recreating the "connect the dots" game, where two people compete i
 [main.py](main.py)
 
 [requirements.txt](requirements.txt)
-
-[__pycache__](__pycache__)

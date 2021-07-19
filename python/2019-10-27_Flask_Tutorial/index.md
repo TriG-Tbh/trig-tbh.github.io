@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Flask Tutorial](/python/2019-10-27_Flask_Tutorial)
+[Main Page](/) / [Python Projects](/python) / [Flask Tutorial](/python/2019-10-20_channelscanning)
 
 # Flask Tutorial
 

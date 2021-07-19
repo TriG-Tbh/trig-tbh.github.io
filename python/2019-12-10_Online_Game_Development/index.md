@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Online Game Development](/python/2019-12-10_Online_Game_Development)
+[Main Page](/) / [Python Projects](/python) / [Online Game Development](/python/2019-12-06_Worm)
 
 # Online Game Development
 
@@ -21,5 +21,3 @@ It never really got anywhere.
 [server.py](server.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

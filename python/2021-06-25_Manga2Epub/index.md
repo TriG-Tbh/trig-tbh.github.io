@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Manga2Epub](/python/2021-06-25_Manga2Epub)
+[Main Page](/) / [Python Projects](/python) / [Manga2Epub](/python/2021-03-03_Friday_Night_Funkin_Keymapper)
 
 # Manga2Epub
 

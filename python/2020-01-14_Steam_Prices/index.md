@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Steam Prices](/python/2020-01-14_Steam_Prices)
+[Main Page](/) / [Python Projects](/python) / [Steam Prices](/python/2020-01-09_18th_Birthday_Present)
 
 # Steam Prices
 

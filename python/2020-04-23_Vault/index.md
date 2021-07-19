@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Vault](/python/2020-04-23_Vault)
+[Main Page](/) / [Python Projects](/python) / [Vault](/python/2020-04-05_I_Can_Make_Art_2)
 
 # Vault
 
@@ -29,5 +29,3 @@ This would be adapted over time, becoming more secure and more advanced.
 [Reddit PIV.py](Reddit PIV.py)
 
 [requirements.txt](requirements.txt)
-
-[__pycache__](__pycache__)

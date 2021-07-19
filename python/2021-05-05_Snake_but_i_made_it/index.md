@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Snake but i made it](/python/2021-05-05_Snake_but_i_made_it)
+[Main Page](/) / [Python Projects](/python) / [Snake but i made it](/python/2020-12-29_Monty_Hall)
 
 # Snake but i made it
 
@@ -21,5 +21,3 @@ Tried making some extra gamemodes, but those did not work.
 [mirrored.py](mirrored.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

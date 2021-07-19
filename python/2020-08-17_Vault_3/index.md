@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Vault 3](/python/2020-08-17_Vault_3)
+[Main Page](/) / [Python Projects](/python) / [Vault 3](/python/2020-05-21_Temporary_Bot)
 
 # Vault 3
 
@@ -33,5 +33,3 @@ I tried doing this with Qt, but I never got it to worked.
 [tkintertest.py](tkintertest.py)
 
 [windows.py](windows.py)
-
-[__pycache__](__pycache__)

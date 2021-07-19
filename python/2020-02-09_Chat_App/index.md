@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Chat App](/python/2020-02-09_Chat_App)
+[Main Page](/) / [Python Projects](/python) / [Chat App](/python/2020-01-19_Image_to_ASCII)
 
 # Chat App
 
@@ -15,5 +15,3 @@ I never finished this.
 [server.py](server.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Vault 2](/python/2020-08-05_Vault_2)
+[Main Page](/) / [Python Projects](/python) / [Vault 2](/python/2020-05-19_Get_Time)
 
 # Vault 2
 
@@ -29,5 +29,3 @@ This also included a journal program, which would take text and encrypt it into 
 [windows.py](windows.py)
 
 [windows2.py](windows2.py)
-
-[__pycache__](__pycache__)

@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Connect 4 AI v4](/python/2019-11-15_Connect_4_AI_v4)
+[Main Page](/) / [Python Projects](/python) / [Connect 4 AI v4](/python/2019-11-08_Python_Keylogger)
 
 # Connect 4 AI v4
 
@@ -15,5 +15,3 @@ An entire game of Connect 4, including an AI with multiple levels of difficulty,
 [main.py](main.py)
 
 [requirements.txt](requirements.txt)
-
-[__pycache__](__pycache__)

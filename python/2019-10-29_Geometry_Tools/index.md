@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Geometry Tools](/python/2019-10-29_Geometry_Tools)
+[Main Page](/) / [Python Projects](/python) / [Geometry Tools](/python/2019-10-27_pygametestthing)
 
 # Geometry Tools
 
@@ -17,5 +17,3 @@ Maybe I should still keep these.
 [perpendicular_line.py](perpendicular_line.py)
 
 [solve_for_variable.py](solve_for_variable.py)
-
-[__pycache__](__pycache__)

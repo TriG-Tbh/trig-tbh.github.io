@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Headcanon & Scenario Generator](/python/2021-01-01_Headcanon_&_Scenario_Generator)
+[Main Page](/) / [Python Projects](/python) / [Headcanon & Scenario Generator](/python/2020-09-13_Stock_Tracker)
 
 # Headcanon & Scenario Generator
 

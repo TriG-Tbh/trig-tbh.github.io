@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Markov Chain Chatbot](/python/2019-11-05_Markov_Chain_Chatbot)
+[Main Page](/) / [Python Projects](/python) / [Markov Chain Chatbot](/python/2019-11-04_SHA1_Hash_Brute-Forcer)
 
 # Markov Chain Chatbot
 
@@ -17,5 +17,3 @@
 [messages.txt](messages.txt)
 
 [test.py](test.py)
-
-[__pycache__](__pycache__)

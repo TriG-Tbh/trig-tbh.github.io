@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Stock Price Predictor](/python/2019-11-27_Stock_Price_Predictor)
+[Main Page](/) / [Python Projects](/python) / [Stock Price Predictor](/python/2019-11-27_Filler_Projects)
 
 # Stock Price Predictor
 

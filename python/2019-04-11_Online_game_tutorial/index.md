@@ -17,5 +17,3 @@ Server doesn't work.
 [network.py](network.py)
 
 [server.py](server.py)
-
-[__pycache__](__pycache__)

@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Chess](/python/2020-09-06_Chess)
+[Main Page](/) / [Python Projects](/python) / [Chess](/python/2020-05-27_Flatten)
 
 # Chess
 
@@ -17,5 +17,3 @@ I never finished it.
 [engine.py](engine.py)
 
 [main.py](main.py)
-
-[__pycache__](__pycache__)

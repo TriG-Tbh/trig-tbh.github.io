@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Stitch Frames](/python/2020-12-11_Stitch_Frames)
+[Main Page](/) / [Python Projects](/python) / [Stitch Frames](/python/2020-09-06_Chess)
 
 # Stitch Frames
 

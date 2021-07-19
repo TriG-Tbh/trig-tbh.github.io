@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [IDLE++](/python/2019-10-27_IDLE++)
+[Main Page](/) / [Python Projects](/python) / [IDLE++](/python/2019-10-27_Flask_Tutorial)
 
 # IDLE++
 

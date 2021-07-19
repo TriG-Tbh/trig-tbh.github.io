@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [RTS](/python/2020-04-19_RTS)
+[Main Page](/) / [Python Projects](/python) / [RTS](/python/2020-03-28_Slitherio)
 
 # RTS
 

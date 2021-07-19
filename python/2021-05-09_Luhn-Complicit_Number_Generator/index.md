@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Luhn-Complicit Number Generator](/python/2021-05-09_Luhn-Complicit_Number_Generator)
+[Main Page](/) / [Python Projects](/python) / [Luhn-Complicit Number Generator](/python/2020-12-30_Vault_4)
 
 # Luhn-Complicit Number Generator
 

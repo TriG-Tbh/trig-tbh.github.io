@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Socket Games](/python/2020-02-05_Socket_Games)
+[Main Page](/) / [Python Projects](/python) / [Socket Games](/python/2020-01-17_Spam_Click)
 
 # Socket Games
 
@@ -17,5 +17,3 @@ I never finished any of them.
 [Game List.py](Game List.py)
 
 [settings.py](settings.py)
-
-[__pycache__](__pycache__)

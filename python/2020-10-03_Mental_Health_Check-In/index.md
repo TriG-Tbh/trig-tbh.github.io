@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Mental Health Check-In](/python/2020-10-03_Mental_Health_Check-In)
+[Main Page](/) / [Python Projects](/python) / [Mental Health Check-In](/python/2020-08-29_Hypixel_Skyblock_Auction_Optimizer)
 
 # Mental Health Check-In
 
@@ -21,5 +21,3 @@ Was meant to be a program run once every month, being a (as the name implies) me
 [settings.py](settings.py)
 
 [windows.py](windows.py)
-
-[__pycache__](__pycache__)
