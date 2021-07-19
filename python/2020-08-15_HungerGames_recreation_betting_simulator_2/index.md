@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [HungerGames_recreation_betting_simulator_2](/python/2019-11-16_Swarm)
+[Main Page](/) / [Python Projects](/python) / [HungerGames_recreation_betting_simulator_2](/python/2020-08-15_HungerGames_recreation_betting_simulator_2)
 
 # HungerGames_recreation_betting_simulator_2
 

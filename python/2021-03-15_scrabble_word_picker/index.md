@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [scrabble_word_picker](/python/2019-11-27_Filler_Projects)
+[Main Page](/) / [Python Projects](/python) / [scrabble_word_picker](/python/2021-03-15_scrabble_word_picker)
 
 # scrabble_word_picker
 

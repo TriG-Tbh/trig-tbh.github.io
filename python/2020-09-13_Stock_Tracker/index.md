@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Stock Tracker](/python/2019-11-20_Brute_Force_Cracking)
+[Main Page](/) / [Python Projects](/python) / [Stock Tracker](/python/2020-09-13_Stock_Tracker)
 
 # Stock Tracker
 

@@ -1,3 +1,5 @@
+[Main Page](/) / [Python Projects](/python) / [TAP](/python/2020-09-15_TAP)
+
 # TAP
 
 ## Date: 2020-09-15
@@ -11,3 +13,19 @@ Frustrated, I created a program that, in theory, would scrape the assignment dat
 Unfortunately, this did not work. No matter what I tried, I could never consistently get the assignment data.
 
 Eventually, Teams got updated to show all assignments, sorted by due date. Out of creating this program, I grew a distaste for Microsoft Azure and the Teams API.
+
+-----
+
+## Files
+
+[main.py](main.py)
+
+[notiontest.py](notiontest.py)
+
+[README.md](README.md)
+
+[requirements.txt](requirements.txt)
+
+[webscrapingtest.py](webscrapingtest.py)
+
+[webserver.py](webserver.py)

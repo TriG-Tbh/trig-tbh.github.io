@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Primes](/python/2019-06-12_Kahoot_Codes)
+[Main Page](/) / [Python Projects](/python) / [Primes](/python/2019-06-21_Primes)
 
 # Primes
 

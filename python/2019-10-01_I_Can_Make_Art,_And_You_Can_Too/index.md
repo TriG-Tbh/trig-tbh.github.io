@@ -1,3 +1,5 @@
+[Main Page](/) / [Python Projects](/python) / [I Can Make Art, And You Can Too](/python/2019-10-01_I_Can_Make_Art,_And_You_Can_Too)
+
 # I Can Make Art, And You Can Too
 
 ## Date: 2019-10-01
@@ -17,3 +19,17 @@ The result is a left-to-right, top-to-bottom gradient with streaks that make it 
 It should be noted - "seed" in the program is the exact opposite of what a seed does to randomness.
 
 Included with this is a 1920x1080 picture (demo.png) that shows what this program is capable of.
+
+-----
+
+## Files
+
+[demo.png](demo.png)
+
+[formats.py](formats.py)
+
+[functions.py](functions.py)
+
+[greyscale.py](greyscale.py)
+
+[main.py](main.py)

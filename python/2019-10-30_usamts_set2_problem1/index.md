@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [usamts_set2_problem1](/python/2019-09-10_DNS_Server)
+[Main Page](/) / [Python Projects](/python) / [usamts_set2_problem1](/python/2019-10-30_usamts_set2_problem1)
 
 # usamts_set2_problem1
 

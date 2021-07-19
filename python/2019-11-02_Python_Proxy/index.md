@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Python Proxy](/python/2019-10-13_RA_Encryption)
+[Main Page](/) / [Python Projects](/python) / [Python Proxy](/python/2019-11-02_Python_Proxy)
 
 # Python Proxy
 
