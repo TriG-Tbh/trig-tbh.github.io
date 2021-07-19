@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Chess](/python/2020-05-27_Flatten)
+[Main Page](/) / [Python Projects](/python) / [Chess](/python/2020-09-06_Chess)
 
 # Chess
 

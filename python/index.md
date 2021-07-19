@@ -168,7 +168,7 @@
 
 [2019-10-01: I Can Make Art, And You Can Too](2019-10-01_I_Can_Make_Art,_And_You_Can_Too)
 
-[2019-10-05 - Raid](2019-10-05_Raid)
+[2019-10-05: Raid](2019-10-05_Raid)
 
 [2019-10-07: Virtual Assistant v2](2019-10-07_Virtual_Assistant_v2)
 
@@ -214,9 +214,9 @@
 
 [2019-11-06: FTP Brute Force](2019-11-06_FTP_Brute_Force)
 
-[2019-11-08 - Spam Bot](2019-11-08_Spam_Bot)
-
 [2019-11-08: Python Keylogger](2019-11-08_Python_Keylogger)
+
+[2019-11-08: Spam Bot](2019-11-08_Spam_Bot)
 
 [2019-11-09: URL Shortener](2019-11-09_URL_Shortener)
 
@@ -242,7 +242,7 @@
 
 [2019-12-07: Tests Regarding Textblobs](2019-12-07_Tests_Regarding_Textblobs)
 
-[2019-12-08 - Invite Tracker](2019-12-08_Invite_Tracker)
+[2019-12-08: Invite Tracker](2019-12-08_Invite_Tracker)
 
 [2019-12-10: Online Game Development](2019-12-10_Online_Game_Development)
 
@@ -260,7 +260,7 @@
 
 [2020-01-19: Image to ASCII](2020-01-19_Image_to_ASCII)
 
-[2020-01-22 - Info Grabber](2020-01-22_Info_Grabber)
+[2020-01-22: Info Grabber](2020-01-22_Info_Grabber)
 
 [2020-02-05: Pygame Snake (with Pathfinding)](2020-02-05_Pygame_Snake_(with_Pathfinding))
 
@@ -278,7 +278,7 @@
 
 [2020-04-07: Jitter Mouse](2020-04-07_Jitter_Mouse)
 
-[2020-04-09 - Command Line](2020-04-09_Command_Line)
+[2020-04-09: Command Line](2020-04-09_Command_Line)
 
 [2020-04-15: Space Invaders](2020-04-15_Space_Invaders)
 
@@ -294,7 +294,7 @@
 
 [2020-05-19: User Posts](2020-05-19_User_Posts)
 
-[2020-05-21 - Temporary Bot](2020-05-21_Temporary_Bot)
+[2020-05-21: Temporary Bot](2020-05-21_Temporary_Bot)
 
 [2020-05-22: Connect The Dots](2020-05-22_Connect_The_Dots)
 
@@ -322,9 +322,9 @@
 
 [2020-10-03: Mental Health Check-In](2020-10-03_Mental_Health_Check-In)
 
-[2020-11-11 - Among Us Fake Rich Presence](2020-11-11_Among_Us_Fake_Rich_Presence)
+[2020-11-11: Among Us Fake Rich Presence](2020-11-11_Among_Us_Fake_Rich_Presence)
 
-[2020-11-11 - SDSR](2020-11-11_SDSR)
+[2020-11-11: SDSR](2020-11-11_SDSR)
 
 [2020-12-11: Stitch Frames](2020-12-11_Stitch_Frames)
 

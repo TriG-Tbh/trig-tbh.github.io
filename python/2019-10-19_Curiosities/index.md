@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Curiosities](/python/2019-10-13_RA_Encryption)
+[Main Page](/) / [Python Projects](/python) / [Curiosities](/python/2019-10-19_Curiosities)
 
 # Curiosities
 

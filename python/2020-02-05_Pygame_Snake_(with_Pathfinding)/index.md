@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Pygame Snake (with Pathfinding)](/python/2020-01-14_Steam_Prices)
+[Main Page](/) / [Python Projects](/python) / [Pygame Snake (with Pathfinding)](/python/2020-02-05_Pygame_Snake_(with_Pathfinding))
 
 # Pygame Snake (with Pathfinding)
 

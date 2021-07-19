@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Snake but i made it](/python/2020-12-29_Monty_Hall)
+[Main Page](/) / [Python Projects](/python) / [Snake but i made it](/python/2021-05-05_Snake_but_i_made_it)
 
 # Snake but i made it
 

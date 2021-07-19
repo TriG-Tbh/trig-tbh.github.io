@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Tier List](/python/2019-10-07_Virtual_Assistant_v2)
+[Main Page](/) / [Python Projects](/python) / [Tier List](/python/2019-10-10_Tier_List)
 
 # Tier List
 

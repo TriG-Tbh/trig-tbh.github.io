@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Python Proxy v2](/python/2019-11-02_Python_Proxy)
+[Main Page](/) / [Python Projects](/python) / [Python Proxy v2](/python/2019-11-02_Python_Proxy_v2)
 
 # Python Proxy v2
 

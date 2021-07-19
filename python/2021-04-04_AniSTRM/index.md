@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [AniSTRM](/python/2020-11-11_Among_Us_Fake_Rich_Presence)
+[Main Page](/) / [Python Projects](/python) / [AniSTRM](/python/2021-04-04_AniSTRM)
 
 # AniSTRM
 

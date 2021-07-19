@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Pendulum Shit](/python/2020-11-11_SDSR)
+[Main Page](/) / [Python Projects](/python) / [Pendulum Shit](/python/2021-04-11_Pendulum_Shit)
 
 # Pendulum Shit
 

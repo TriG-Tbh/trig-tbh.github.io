@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Tests Regarding Textblobs](/python/2019-12-03_Realistic_Pasting)
+[Main Page](/) / [Python Projects](/python) / [Tests Regarding Textblobs](/python/2019-12-07_Tests_Regarding_Textblobs)
 
 # Tests Regarding Textblobs
 

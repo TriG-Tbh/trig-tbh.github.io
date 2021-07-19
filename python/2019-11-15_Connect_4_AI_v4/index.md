@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Connect 4 AI v4](/python/2019-11-08_Python_Keylogger)
+[Main Page](/) / [Python Projects](/python) / [Connect 4 AI v4](/python/2019-11-15_Connect_4_AI_v4)
 
 # Connect 4 AI v4
 

@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Terminal Game](/python/2019-12-10_Online_Game_Development)
+[Main Page](/) / [Python Projects](/python) / [Terminal Game](/python/2020-01-09_Terminal_Game)
 
 # Terminal Game
 

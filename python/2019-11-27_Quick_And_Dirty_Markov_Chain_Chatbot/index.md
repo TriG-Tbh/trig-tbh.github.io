@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Quick And Dirty Markov Chain Chatbot](/python/2019-11-21_Sentiment_Analyzer)
+[Main Page](/) / [Python Projects](/python) / [Quick And Dirty Markov Chain Chatbot](/python/2019-11-27_Quick_And_Dirty_Markov_Chain_Chatbot)
 
 # Quick And Dirty Markov Chain Chatbot
 

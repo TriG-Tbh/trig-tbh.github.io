@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Worm](/python/2019-11-27_Stock_Price_Predictor)
+[Main Page](/) / [Python Projects](/python) / [Worm](/python/2019-12-06_Worm)
 
 # Worm
 

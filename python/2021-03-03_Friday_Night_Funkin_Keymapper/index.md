@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Friday Night Funkin Keymapper](/python/2020-09-15_TAP)
+[Main Page](/) / [Python Projects](/python) / [Friday Night Funkin Keymapper](/python/2021-03-03_Friday_Night_Funkin_Keymapper)
 
 # Friday Night Funkin Keymapper
 

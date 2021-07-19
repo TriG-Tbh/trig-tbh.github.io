@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Space Invaders](/python/2020-03-23_Ammonomicon)
+[Main Page](/) / [Python Projects](/python) / [Space Invaders](/python/2020-04-15_Space_Invaders)
 
 # Space Invaders
 

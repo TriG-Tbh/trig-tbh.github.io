@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Pygame Animations](/python/2021-01-01_Headcanon_&_Scenario_Generator)
+[Main Page](/) / [Python Projects](/python) / [Pygame Animations](/python/2021-05-13_Pygame_Animations)
 
 # Pygame Animations
 

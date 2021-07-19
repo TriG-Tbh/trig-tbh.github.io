@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Sentiment Analyzer](/python/2019-11-20_Brute_Force_Cracking)
+[Main Page](/) / [Python Projects](/python) / [Sentiment Analyzer](/python/2019-11-21_Sentiment_Analyzer)
 
 # Sentiment Analyzer
 

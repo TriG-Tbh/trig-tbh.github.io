@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [test](/python/2019-12-07_Tests_Regarding_Textblobs)
+[Main Page](/) / [Python Projects](/python) / [test](/python/2019-12-15_test)
 
 # test
 

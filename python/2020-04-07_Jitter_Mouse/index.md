@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Jitter Mouse](/python/2020-02-22_MongoDB_Test)
+[Main Page](/) / [Python Projects](/python) / [Jitter Mouse](/python/2020-04-07_Jitter_Mouse)
 
 # Jitter Mouse
 
