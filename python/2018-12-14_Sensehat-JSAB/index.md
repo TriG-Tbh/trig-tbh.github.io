@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Sensehat-JSAB](/python/2018-12-14_Sensehat-JSAB)](/python/2018-12-14_Sensehat-JSAB)
-
-Main Page](/) / [Python Projects](/python) / [Sensehat-JSAB](/python/2018-12-14_Sensehat-JSAB)
+[Main Page](/) / [Python Projects](/python) / [Sensehat-JSAB](/python/2018-12-14_Sensehat-JSAB)
 
 # Sensehat-JSAB
 

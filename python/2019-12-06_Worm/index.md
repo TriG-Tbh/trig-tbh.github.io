@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Worm](/python/2019-12-06_Worm)](/python/2019-12-06_Worm)
-
-Main Page](/) / [Python Projects](/python) / [Worm](/python/2019-12-06_Worm)
+[Main Page](/) / [Python Projects](/python) / [Worm](/python/2019-12-06_Worm)
 
 # Worm
 

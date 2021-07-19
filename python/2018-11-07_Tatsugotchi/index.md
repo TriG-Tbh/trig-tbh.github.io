@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Tatsugotchi](/python/2018-11-07_Tatsugotchi)](/python/2018-11-07_Tatsugotchi)
-
-Main Page](/) / [Python Projects](/python) / [Tatsugotchi](/python/2018-11-07_Tatsugotchi)
+[Main Page](/) / [Python Projects](/python) / [Tatsugotchi](/python/2018-11-07_Tatsugotchi)
 
 # Tatsugotchi
 

@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Graphing Calculator](/python/2018-10-23_Graphing_Calculator)](/python/2018-10-23_Graphing_Calculator)
-
-Main Page](/) / [Python Projects](/python) / [Graphing Calculator](/python/2018-10-23_Graphing_Calculator)
+[Main Page](/) / [Python Projects](/python) / [Graphing Calculator](/python/2018-10-23_Graphing_Calculator)
 
 # Graphing Calculator
 

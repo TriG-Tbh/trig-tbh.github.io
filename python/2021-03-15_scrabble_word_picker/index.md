@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [scrabble_word_picker](/python/2021-03-15_scrabble_word_picker)](/python/2021-03-15_scrabble_word_picker)
-
-Main Page](/) / [Python Projects](/python) / [scrabble_word_picker](/python/2021-03-15_scrabble_word_picker)
+[Main Page](/) / [Python Projects](/python) / [scrabble_word_picker](/python/2021-03-15_scrabble_word_picker)
 
 # scrabble_word_picker
 

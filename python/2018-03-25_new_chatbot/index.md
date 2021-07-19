@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [new_chatbot](/python/2018-03-25_new_chatbot)](/python/2018-03-25_new_chatbot)
-
-Main Page](/) / [Python Projects](/python) / [new_chatbot](/python/2018-03-25_new_chatbot)
+[Main Page](/) / [Python Projects](/python) / [new_chatbot](/python/2018-03-25_new_chatbot)
 
 # new_chatbot
 

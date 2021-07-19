@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [api](/python/2018-07-12_api)](/python/2018-07-12_api)
-
-Main Page](/) / [Python Projects](/python) / [api](/python/2018-07-12_api)
+[Main Page](/) / [Python Projects](/python) / [api](/python/2018-07-12_api)
 
 # api
 

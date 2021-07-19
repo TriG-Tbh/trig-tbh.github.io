@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [validation](/python/2019-11-01_validation)](/python/2019-11-01_validation)
-
-Main Page](/) / [Python Projects](/python) / [validation](/python/2019-11-01_validation)
+[Main Page](/) / [Python Projects](/python) / [validation](/python/2019-11-01_validation)
 
 # validation
 

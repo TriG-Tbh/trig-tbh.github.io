@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [HungerGames_recreation_betting_simulator](/python/2018-06-03_HungerGames_recreation_betting_simulator)](/python/2018-06-03_HungerGames_recreation_betting_simulator)
-
-Main Page](/) / [Python Projects](/python) / [HungerGames_recreation_betting_simulator](/python/2018-06-03_HungerGames_recreation_betting_simulator)
+[Main Page](/) / [Python Projects](/python) / [HungerGames_recreation_betting_simulator](/python/2018-06-03_HungerGames_recreation_betting_simulator)
 
 # HungerGames_recreation_betting_simulator
 

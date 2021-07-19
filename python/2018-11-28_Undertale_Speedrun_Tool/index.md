@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Undertale Speedrun Tool](/python/2018-11-28_Undertale_Speedrun_Tool)](/python/2018-11-28_Undertale_Speedrun_Tool)
-
-Main Page](/) / [Python Projects](/python) / [Undertale Speedrun Tool](/python/2018-11-28_Undertale_Speedrun_Tool)
+[Main Page](/) / [Python Projects](/python) / [Undertale Speedrun Tool](/python/2018-11-28_Undertale_Speedrun_Tool)
 
 # Undertale Speedrun Tool
 

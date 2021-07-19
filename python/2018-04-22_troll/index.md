@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [troll](/python/2018-04-22_troll)](/python/2018-04-22_troll)
-
-Main Page](/) / [Python Projects](/python) / [troll](/python/2018-04-22_troll)
+[Main Page](/) / [Python Projects](/python) / [troll](/python/2018-04-22_troll)
 
 # troll
 

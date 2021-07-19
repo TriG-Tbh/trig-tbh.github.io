@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [sensehat_demo](/python/2018-11-03_sensehat_demo)](/python/2018-11-03_sensehat_demo)
-
-Main Page](/) / [Python Projects](/python) / [sensehat_demo](/python/2018-11-03_sensehat_demo)
+[Main Page](/) / [Python Projects](/python) / [sensehat_demo](/python/2018-11-03_sensehat_demo)
 
 # sensehat_demo
 

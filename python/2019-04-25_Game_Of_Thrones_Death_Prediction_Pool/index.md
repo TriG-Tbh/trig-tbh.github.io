@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [Game Of Thrones Death Prediction Pool](/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool)](/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool)
-
-Main Page](/) / [Python Projects](/python) / [Game Of Thrones Death Prediction Pool](/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool)
+[Main Page](/) / [Python Projects](/python) / [Game Of Thrones Death Prediction Pool](/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool)
 
 # Game Of Thrones Death Prediction Pool
 

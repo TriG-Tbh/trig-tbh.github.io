@@ -1,6 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [ain Page](/) / [Python Projects](/python) / [password](/python/2017-05-16_password)](/python/2017-05-16_password)
-
-Main Page](/) / [Python Projects](/python) / [password](/python/2017-05-16_password)
+[Main Page](/) / [Python Projects](/python) / [password](/python/2017-05-16_password)
 
 # password
 
