@@ -160,9 +160,17 @@
 
 [2019-07-29: Discord Token Grabber](2019-07-29_Discord_Token_Grabber)
 
+[2019-07-31: Potential-New-Messenger](2019-07-31_Potential-New-Messenger)
+
+[2019-08-26: Auto Tatsumaki](2019-08-26_Auto_Tatsumaki)
+
+[2019-08-27: APB](2019-08-27_APB)
+
 [2019-08-28: Push To Heroku](2019-08-28_Push_To_Heroku)
 
 [2019-09-10: DNS Server](2019-09-10_DNS_Server)
+
+[2019-09-26: Cyborg](2019-09-26_Cyborg)
 
 [2019-09-28: Run Executable As Admin](2019-09-28_Run_Executable_As_Admin)
 
@@ -176,9 +184,19 @@
 
 [2019-10-13: RA Encryption](2019-10-13_RA_Encryption)
 
+[2019-10-15: Emoji Stealer](2019-10-15_Emoji_Stealer)
+
+[2019-10-17: Echo Discord Bot](2019-10-17_Echo_Discord_Bot)
+
+[2019-10-17: Music Bot](2019-10-17_Music_Bot)
+
 [2019-10-19: Curiosities](2019-10-19_Curiosities)
 
 [2019-10-20: channelscanning](2019-10-20_channelscanning)
+
+[2019-10-23: Async Music Bot](2019-10-23_Async_Music_Bot)
+
+[2019-10-23: Music-Bot](2019-10-23_Music-Bot)
 
 [2019-10-27: Flask Tutorial](2019-10-27_Flask_Tutorial)
 
@@ -230,6 +248,10 @@
 
 [2019-11-21: Sentiment Analyzer](2019-11-21_Sentiment_Analyzer)
 
+[2019-11-22: Content Aggregator Bot](2019-11-22_Content_Aggregator_Bot)
+
+[2019-11-22: Nickname Changer](2019-11-22_Nickname_Changer)
+
 [2019-11-27: Filler Projects](2019-11-27_Filler_Projects)
 
 [2019-11-27: Quick And Dirty Markov Chain Chatbot](2019-11-27_Quick_And_Dirty_Markov_Chain_Chatbot)
@@ -262,21 +284,39 @@
 
 [2020-01-22: Info Grabber](2020-01-22_Info_Grabber)
 
+[2020-01-22: Personal Bot](2020-01-22_Personal_Bot)
+
+[2020-01-24: Async Music Bot v2](2020-01-24_Async_Music_Bot_v2)
+
 [2020-02-05: Pygame Snake (with Pathfinding)](2020-02-05_Pygame_Snake_(with_Pathfinding))
 
 [2020-02-05: Socket Games](2020-02-05_Socket_Games)
 
 [2020-02-09: Chat App](2020-02-09_Chat_App)
 
+[2020-02-15: Economy Bot](2020-02-15_Economy_Bot)
+
+[2020-02-22: Echo v2](2020-02-22_Echo_v2)
+
 [2020-02-22: MongoDB Test](2020-02-22_MongoDB_Test)
+
+[2020-02-29: Jail Guard](2020-02-29_Jail_Guard)
+
+[2020-03-09: SSB](2020-03-09_SSB)
 
 [2020-03-23: Ammonomicon](2020-03-23_Ammonomicon)
 
 [2020-03-28: Slitherio](2020-03-28_Slitherio)
 
+[2020-04-02: Tesseract](2020-04-02_Tesseract)
+
 [2020-04-05: I Can Make Art 2](2020-04-05_I_Can_Make_Art_2)
 
+[2020-04-05: ShepBot](2020-04-05_ShepBot)
+
 [2020-04-07: Jitter Mouse](2020-04-07_Jitter_Mouse)
+
+[2020-04-08: Alloy](2020-04-08_Alloy)
 
 [2020-04-09: Command Line](2020-04-09_Command_Line)
 
@@ -300,13 +340,21 @@
 
 [2020-05-27: Flatten](2020-05-27_Flatten)
 
+[2020-05-29: Full Bot](2020-05-29_Full_Bot)
+
 [2020-05-29: HungerGames recreation betting simulator Remake (5-29-2020)](2020-05-29_HungerGames_recreation_betting_simulator_Remake_(5-29-2020))
+
+[2020-06-01: DogBot](2020-06-01_DogBot)
 
 [2020-08-05: Vault 2](2020-08-05_Vault_2)
 
 [2020-08-15: HungerGames recreation betting simulator 2](2020-08-15_HungerGames_recreation_betting_simulator_2)
 
 [2020-08-17: Vault 3](2020-08-17_Vault_3)
+
+[2020-08-17: Verified Bot (Hopefully)](2020-08-17_Verified_Bot_(Hopefully))
+
+[2020-08-25: Croupier](2020-08-25_Croupier)
 
 [2020-08-29: Hypixel Skyblock Auction Optimizer](2020-08-29_Hypixel_Skyblock_Auction_Optimizer)
 
@@ -334,7 +382,13 @@
 
 [2021-01-01: Headcanon & Scenario Generator](2021-01-01_Headcanon_&_Scenario_Generator)
 
+[2021-01-01: Therapy is Expensive](2021-01-01_Therapy_is_Expensive)
+
+[2021-02-14: The Cure For Loneliness](2021-02-14_The_Cure_For_Loneliness)
+
 [2021-03-03: Friday Night Funkin Keymapper](2021-03-03_Friday_Night_Funkin_Keymapper)
+
+[2021-03-15: Titan Bomb](2021-03-15_Titan_Bomb)
 
 [2021-03-15: scrabble word picker](2021-03-15_scrabble_word_picker)
 

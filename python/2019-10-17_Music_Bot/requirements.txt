@@ -1,0 +1,4 @@
+discord.py[voice]==1.0
+ffmpeg
+youtube_dl
+pafy

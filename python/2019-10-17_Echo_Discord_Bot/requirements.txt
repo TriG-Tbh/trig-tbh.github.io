@@ -1,0 +1,5 @@
+discord.py==1.2.5
+requests
+praw
+wikipedia
+js2py

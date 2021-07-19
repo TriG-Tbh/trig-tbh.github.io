@@ -1,0 +1,8 @@
+discord.py
+praw
+pafy
+youtube_dl
+wikipedia
+google
+beautifulsoup4
+requests

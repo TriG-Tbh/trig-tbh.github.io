@@ -1,0 +1,14 @@
+.help - Displays this message
+.reddit [name] [hot/new (optional)] - Displays a random image from a given subreddit, using Hot/New to use posts from Hot or New (defaults to Hot)
+.furry [user tag/ID (optional)] [hot/new] - What's this? (Use at your own risk)
+.hug [user tag/ID] - Sends a user a nice, warm hug
+.slap [user tag/ID] - Slaps a user. Meanie...
+.rps [rock/paper/scissors] - Plays a game of Rock, Paper, Scissors, with the bot
+.stroke [message]
+
+----- ADMIN COMMANDS -----
+.addemoji [name] [url] - Adds a new emoji with the given name and image url
+.clear [messages] - Deletes the number of messages specified (input "all" to clear channel")
+.mute [user tag/ID] [reason (optional)] (NOT YET IMPLEMENTED)
+.kick [user tag/ID] - Kicks a user
+.ban [user tag/ID] - Bans a user

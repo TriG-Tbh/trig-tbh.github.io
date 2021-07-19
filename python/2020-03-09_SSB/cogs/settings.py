@@ -1,0 +1,6 @@
+PREFIX = "!"
+TOKEN = "[REDACTED]"
+MONGO_URI = "[REDACTED]"
+
+
+

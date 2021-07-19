@@ -1,0 +1,5 @@
+# DNI
+
+TOKEN = "[REDACTED]"
+PREFIX = ">"
+MONGO_URI = "[REDACTED]"

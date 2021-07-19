@@ -1,0 +1,8 @@
+# DNI
+
+RED = 0xff470f
+BLUE = 0x117ea6
+GREEN = 0x23d160
+YELLOW = 0xffff00
+PREFIX = "/"
+TOKEN = "[REDACTED]"

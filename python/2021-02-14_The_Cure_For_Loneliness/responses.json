@@ -1,0 +1,32 @@
+{
+    "footer": [
+        "So manly!",
+        "Very heroic!"
+    ],
+    "accepted": [
+        "You got it, dude!",
+        "Ok!",
+        "Alright, dude!"
+    ],
+    "error": [
+        "Uh oh, dude,",
+        "Yikes,",
+        "Oops,",
+        "Oh no,"
+    ],
+    "join": [
+        "Hey, dude, what's up?",
+        "Yooooo!",
+        "Heeeeeeeeeey."
+    ],
+    "leave": [
+        "Ok, dude, see you later!",
+        "Bye dude!",
+        "Catch you later, dude!"
+    ],
+    "praise": [
+        "So manly!",
+        "Nice job!",
+        "Way to go!"
+    ]
+}
