@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [AniSTRM](/python/2021-04-04_AniSTRM)
+[Main Page](/) / [Python Projects](/python) / [AniSTRM](/python/2019-11-27_Quick_And_Dirty_Markov_Chain_Chatbot)
 
 # AniSTRM
 

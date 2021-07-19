@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Realistic Pasting](/python/2019-12-03_Realistic_Pasting)
+[Main Page](/) / [Python Projects](/python) / [Realistic Pasting](/python/2019-10-31_the_machine)
 
 # Realistic Pasting
 

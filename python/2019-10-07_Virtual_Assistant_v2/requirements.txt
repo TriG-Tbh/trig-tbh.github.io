@@ -1,0 +1,6 @@
+SpeechRecognition
+beautifulsoup4
+python-vlc
+youtube-dl
+pyowm
+wikipedia

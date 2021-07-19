@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [Jitter Mouse](/python/2020-04-07_Jitter_Mouse)
+[Main Page](/) / [Python Projects](/python) / [Jitter Mouse](/python/2019-11-05_Markov_Chain_Chatbot)
 
 # Jitter Mouse
 

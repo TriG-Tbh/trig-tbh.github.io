@@ -1,4 +1,4 @@
-[Main Page](/) / [Python Projects](/python) / [create](/python/2019-06-08_create)
+[Main Page](/) / [Python Projects](/python) / [create](/python/2019-04-25_Game_Of_Thrones_Death_Prediction_Pool)
 
 # create
 
