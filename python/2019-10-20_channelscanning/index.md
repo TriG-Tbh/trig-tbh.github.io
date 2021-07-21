@@ -4,7 +4,7 @@
 
 ## Date: 2019-10-20
 
-The first test I ever did with the discord library.
+A test I did with the discord library.
 
 This scanned the channels of a server for all messages that had words in them.
 
