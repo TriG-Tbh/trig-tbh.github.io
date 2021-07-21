@@ -12,6 +12,8 @@
 
 [general.py](general.py)
 
+[index.md](index.md)
+
 [settings.py](settings.py)
 
 [utilities.py](utilities.py)

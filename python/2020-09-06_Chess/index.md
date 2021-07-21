@@ -12,7 +12,7 @@ I never finished it.
 
 ## Files
 
-[assets](assets)
+[assets/](assets)
 
 [engine.py](engine.py)
 

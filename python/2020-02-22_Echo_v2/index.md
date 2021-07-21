@@ -10,7 +10,7 @@ An attempt at rewriting the Echo bot from earlier.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [functions.py](functions.py)
 

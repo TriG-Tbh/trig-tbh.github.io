@@ -18,10 +18,12 @@
 
 [Gtk.py](Gtk.py)
 
+[index.md](index.md)
+
 [keysyms.py](keysyms.py)
 
 [meson.build](meson.build)
 
 [Pango.py](Pango.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

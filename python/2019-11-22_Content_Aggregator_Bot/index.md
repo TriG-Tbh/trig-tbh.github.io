@@ -12,7 +12,7 @@ Was successfully able to scrape IMDb for movie content.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)
 

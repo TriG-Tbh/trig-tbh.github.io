@@ -12,6 +12,6 @@ I never got around to finishing it.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)

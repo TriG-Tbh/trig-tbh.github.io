@@ -16,13 +16,13 @@ I tried doing this with Qt, but I never got it to worked.
 
 [functions.py](functions.py)
 
-[gi](gi)
+[gi/](gi)
 
 [journal.py](journal.py)
 
 [main.py](main.py)
 
-[pgi](pgi)
+[pgi/](pgi)
 
 [piv3.py](piv3.py)
 

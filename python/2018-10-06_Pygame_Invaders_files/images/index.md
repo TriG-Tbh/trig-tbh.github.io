@@ -18,6 +18,8 @@
 
 [explosion3.png](explosion3.png)
 
+[index.md](index.md)
+
 [laser1.png](laser1.png)
 
 [laser2.png](laser2.png)

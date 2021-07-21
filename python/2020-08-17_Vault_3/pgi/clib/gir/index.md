@@ -38,4 +38,6 @@
 
 [giunioninfo.py](giunioninfo.py)
 
-[__init__.py](__init__.py)
+[index.md](index.md)
+
+[\_\_init\_\_.py](\_\_init\_\_.py)

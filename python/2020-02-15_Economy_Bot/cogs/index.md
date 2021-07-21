@@ -10,4 +10,6 @@
 
 [games.py](games.py)
 
+[index.md](index.md)
+
 [words.txt](words.txt)

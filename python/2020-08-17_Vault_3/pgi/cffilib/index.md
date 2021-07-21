@@ -4,11 +4,13 @@
 
 -----
 
-## Files[gir](gir)
+## Files[gir/](gir)
 
-[glib](glib)
+[glib/](glib)
 
-[gobject](gobject)
+[gobject/](gobject)
+
+[index.md](index.md)
 
 [README](README)
 
@@ -16,4 +18,4 @@
 
 [_utils.py](_utils.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

@@ -6,8 +6,10 @@
 
 ## Files[functions.py](functions.py)
 
+[index.md](index.md)
+
 [music.py](music.py)
 
 [settings.py](settings.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

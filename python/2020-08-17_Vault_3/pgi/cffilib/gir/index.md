@@ -42,8 +42,10 @@
 
 [giunioninfo.py](giunioninfo.py)
 
+[index.md](index.md)
+
 [_cdef.py](_cdef.py)
 
 [_ffi.py](_ffi.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

@@ -14,7 +14,7 @@ A program that would download all emojis from all of the servers the user was in
 
 [Emote Stealer.py](Emote Stealer.py)
 
-[Servers](Servers)
+[Servers/](Servers)
 
 [webptojpg](webptojpg)
 

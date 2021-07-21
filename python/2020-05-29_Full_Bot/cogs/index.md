@@ -8,6 +8,8 @@
 
 [functions.py](functions.py)
 
+[index.md](index.md)
+
 [mongohelper.py](mongohelper.py)
 
 [settings.py](settings.py)
@@ -16,4 +18,4 @@
 
 [utilities.py](utilities.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

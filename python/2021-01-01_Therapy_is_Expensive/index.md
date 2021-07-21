@@ -16,6 +16,6 @@ Though the original idea was never fully expanded upon, I think I could finish t
 
 ## Files
 
-[Characters](Characters)
+[Characters/](Characters)
 
 [main.py](main.py)

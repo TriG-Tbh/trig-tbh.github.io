@@ -6,11 +6,11 @@
 
 ## Files[callback.py](callback.py)
 
-[cffilib](cffilib)
+[cffilib/](cffilib)
 
-[clib](clib)
+[clib/](clib)
 
-[codegen](codegen)
+[codegen/](codegen)
 
 [const.py](const.py)
 
@@ -24,7 +24,7 @@
 
 [finalizer.py](finalizer.py)
 
-[foreign](foreign)
+[foreign/](foreign)
 
 [function.py](function.py)
 
@@ -34,17 +34,19 @@
 
 [importer.py](importer.py)
 
+[index.md](index.md)
+
 [module.py](module.py)
 
 [obj.py](obj.py)
 
-[overrides](overrides)
+[overrides/](overrides)
 
 [properties.py](properties.py)
 
 [propertyhelper.py](propertyhelper.py)
 
-[repository](repository)
+[repository/](repository)
 
 [signalhelper.py](signalhelper.py)
 
@@ -58,4 +60,4 @@
 
 [_compat.py](_compat.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

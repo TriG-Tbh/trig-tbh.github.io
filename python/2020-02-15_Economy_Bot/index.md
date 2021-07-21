@@ -14,7 +14,7 @@ One thing I *am* proud of, however, is the **working** concept of a game invite 
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [delay.json](delay.json)
 

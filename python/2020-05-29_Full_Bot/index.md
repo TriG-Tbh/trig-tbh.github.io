@@ -12,7 +12,7 @@ Like many other bots I tried to make, it was not finished.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [Command Ideas.md](Command Ideas.md)
 

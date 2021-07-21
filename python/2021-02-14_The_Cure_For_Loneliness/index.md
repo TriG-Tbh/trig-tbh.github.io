@@ -20,7 +20,7 @@ Though the bot itself isn't all that interesting, the blackjack engine, with min
 
 [characters.json](characters.json)
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)
 

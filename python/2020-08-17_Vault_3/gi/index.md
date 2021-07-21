@@ -12,11 +12,13 @@
 
 [importer.py](importer.py)
 
+[index.md](index.md)
+
 [meson.build](meson.build)
 
 [module.py](module.py)
 
-[overrides](overrides)
+[overrides/](overrides)
 
 [pygboxed.c](pygboxed.c)
 
@@ -174,7 +176,7 @@
 
 [pygtkcompat.py](pygtkcompat.py)
 
-[repository](repository)
+[repository/](repository)
 
 [types.py](types.py)
 
@@ -192,4 +194,4 @@
 
 [_signalhelper.py](_signalhelper.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)

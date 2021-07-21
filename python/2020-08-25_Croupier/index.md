@@ -12,6 +12,6 @@ This has significantly less.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)

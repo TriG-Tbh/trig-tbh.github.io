@@ -10,7 +10,7 @@ An almost-exact replica of a much earlier Space Invaders program, except this ha
 
 ## Files
 
-[assets](assets)
+[assets/](assets)
 
 [main.py](main.py)
 

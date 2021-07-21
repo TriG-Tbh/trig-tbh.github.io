@@ -12,7 +12,7 @@ It's a shame that I never finished this, it would have been cool.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [Command Ideas.md](Command Ideas.md)
 

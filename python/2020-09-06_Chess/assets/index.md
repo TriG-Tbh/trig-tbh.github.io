@@ -16,6 +16,8 @@
 
 [bR.png](bR.png)
 
+[index.md](index.md)
+
 [wB.png](wB.png)
 
 [wK.png](wK.png)

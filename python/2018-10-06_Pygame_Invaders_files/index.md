@@ -14,4 +14,4 @@ When I run it normally, I get "NameError: name 'Actor' is not defined"
 
 [figure1.py](figure1.py)
 
-[images](images)
+[images/](images)

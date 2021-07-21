@@ -12,7 +12,7 @@ I never finished this.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)
 

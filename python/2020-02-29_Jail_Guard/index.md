@@ -12,7 +12,7 @@ This bot actually worked, which I find to be quite surprising.
 
 ## Files
 
-[cogs](cogs)
+[cogs/](cogs)
 
 [main.py](main.py)
 

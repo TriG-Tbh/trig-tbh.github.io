@@ -4,14 +4,16 @@
 
 -----
 
-## Files[gir](gir)
+## Files[gir/](gir)
 
 [glib.py](glib.py)
 
 [gobject.py](gobject.py)
 
+[index.md](index.md)
+
 [_compat.py](_compat.py)
 
 [_utils.py](_utils.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)
