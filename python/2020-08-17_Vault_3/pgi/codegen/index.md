@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](2020-08-17_Vault_3) / [pgi](pgi) / [codegen](codegen)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](/python/2020-08-17_Vault_3) / [pgi](/python/2020-08-17_Vault_3/pgi) / [codegen](/python/2020-08-17_Vault_3/pgi/codegen)
 
 # codegen
 
 -----
 
-## Files[arguments.py](arguments.py)
+## Files
+
+[arguments.py](arguments.py)
 
 [backend.py](backend.py)
 
@@ -23,8 +25,6 @@
 [fields.py](fields.py)
 
 [funcgen.py](funcgen.py)
-
-[index.md](index.md)
 
 [null_backend.py](null_backend.py)
 

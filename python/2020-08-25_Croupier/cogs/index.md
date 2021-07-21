@@ -1,16 +1,16 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-25: Croupier](2020-08-25_Croupier) / [cogs](cogs)
+[Main Page](/) / [Python Projects](/python) / [2020-08-25: Croupier](/python/2020-08-25_Croupier) / [cogs](/python/2020-08-25_Croupier/cogs)
 
 # cogs
 
 -----
 
-## Files[economy.py](economy.py)
+## Files
+
+[economy.py](economy.py)
 
 [functions.py](functions.py)
 
 [games.py](games.py)
-
-[index.md](index.md)
 
 [mongohelper.py](mongohelper.py)
 

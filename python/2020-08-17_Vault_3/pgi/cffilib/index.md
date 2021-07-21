@@ -1,16 +1,16 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](2020-08-17_Vault_3) / [pgi](pgi) / [cffilib](cffilib)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](/python/2020-08-17_Vault_3) / [pgi](/python/2020-08-17_Vault_3/pgi) / [cffilib](/python/2020-08-17_Vault_3/pgi/cffilib)
 
 # cffilib
 
 -----
 
-## Files[gir/](gir)
+## Files
+
+[gir/](gir)
 
 [glib/](glib)
 
 [gobject/](gobject)
-
-[index.md](index.md)
 
 [README](README)
 

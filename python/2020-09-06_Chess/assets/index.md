@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-09-06: Chess](2020-09-06_Chess) / [assets](assets)
+[Main Page](/) / [Python Projects](/python) / [2020-09-06: Chess](/python/2020-09-06_Chess) / [assets](/python/2020-09-06_Chess/assets)
 
 # assets
 
 -----
 
-## Files[bB.png](bB.png)
+## Files
+
+[bB.png](bB.png)
 
 [bK.png](bK.png)
 
@@ -15,8 +17,6 @@
 [bQ.png](bQ.png)
 
 [bR.png](bR.png)
-
-[index.md](index.md)
 
 [wB.png](wB.png)
 

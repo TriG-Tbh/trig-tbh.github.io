@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](2020-08-17_Vault_3) / [pgi](pgi)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](/python/2020-08-17_Vault_3) / [pgi](/python/2020-08-17_Vault_3/pgi)
 
 # pgi
 
 -----
 
-## Files[callback.py](callback.py)
+## Files
+
+[callback.py](callback.py)
 
 [cffilib/](cffilib)
 
@@ -33,8 +35,6 @@
 [gtype.py](gtype.py)
 
 [importer.py](importer.py)
-
-[index.md](index.md)
 
 [module.py](module.py)
 

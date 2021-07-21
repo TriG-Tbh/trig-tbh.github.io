@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-02-29: Jail Guard](2020-02-29_Jail_Guard) / [cogs](cogs)
+[Main Page](/) / [Python Projects](/python) / [2020-02-29: Jail Guard](/python/2020-02-29_Jail_Guard) / [cogs](/python/2020-02-29_Jail_Guard/cogs)
 
 # cogs
 
 -----
 
-## Files[administration.py](administration.py)
+## Files
+
+[administration.py](administration.py)
 
 [appeals.py](appeals.py)
 
@@ -15,8 +17,6 @@
 [functions.py](functions.py)
 
 [help.py](help.py)
-
-[index.md](index.md)
 
 [settings.py](settings.py)
 

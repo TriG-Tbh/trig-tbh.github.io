@@ -1,18 +1,18 @@
-[Main Page](/) / [Python Projects](/python) / [2019-11-22: Content Aggregator Bot](2019-11-22_Content_Aggregator_Bot) / [cogs](cogs)
+[Main Page](/) / [Python Projects](/python) / [2019-11-22: Content Aggregator Bot](/python/2019-11-22_Content_Aggregator_Bot) / [cogs](/python/2019-11-22_Content_Aggregator_Bot/cogs)
 
 # cogs
 
 -----
 
-## Files[discordlookup.py](discordlookup.py)
+## Files
+
+[discordlookup.py](discordlookup.py)
 
 [fun.py](fun.py)
 
 [google.py](google.py)
 
 [imdb.py](imdb.py)
-
-[index.md](index.md)
 
 [reddit.py](reddit.py)
 

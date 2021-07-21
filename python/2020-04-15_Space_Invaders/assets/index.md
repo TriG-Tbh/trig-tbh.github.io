@@ -1,12 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-04-15: Space Invaders](2020-04-15_Space_Invaders) / [assets](assets)
+[Main Page](/) / [Python Projects](/python) / [2020-04-15: Space Invaders](/python/2020-04-15_Space_Invaders) / [assets](/python/2020-04-15_Space_Invaders/assets)
 
 # assets
 
 -----
 
-## Files[background-black.png](background-black.png)
+## Files
 
-[index.md](index.md)
+[background-black.png](background-black.png)
 
 [pixel_laser_blue.png](pixel_laser_blue.png)
 

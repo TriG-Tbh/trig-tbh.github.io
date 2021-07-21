@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](2020-08-17_Vault_3) / [pgi](pgi) / [clib](clib) / [gir](gir)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](/python/2020-08-17_Vault_3) / [pgi](/python/2020-08-17_Vault_3/pgi) / [clib](/python/2020-08-17_Vault_3/pgi/clib) / [gir](/python/2020-08-17_Vault_3/pgi/clib/gir)
 
 # gir
 
 -----
 
-## Files[error.py](error.py)
+## Files
+
+[error.py](error.py)
 
 [giarginfo.py](giarginfo.py)
 
@@ -37,7 +39,5 @@
 [gitypelib.py](gitypelib.py)
 
 [giunioninfo.py](giunioninfo.py)
-
-[index.md](index.md)
 
 [\_\_init\_\_.py](\_\_init\_\_.py)

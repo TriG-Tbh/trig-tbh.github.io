@@ -1,12 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Verified Bot (Hopefully)](2020-08-17_Verified_Bot_(Hopefully)) / [cogs](cogs)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Verified Bot (Hopefully)](/python/2020-08-17_Verified_Bot_(Hopefully)) / [cogs](/python/2020-08-17_Verified_Bot_(Hopefully)/cogs)
 
 # cogs
 
 -----
 
-## Files[functions.py](functions.py)
+## Files
 
-[index.md](index.md)
+[functions.py](functions.py)
 
 [music.py](music.py)
 

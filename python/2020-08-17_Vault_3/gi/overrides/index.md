@@ -1,10 +1,12 @@
-[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](2020-08-17_Vault_3) / [gi](gi) / [overrides](overrides)
+[Main Page](/) / [Python Projects](/python) / [2020-08-17: Vault 3](/python/2020-08-17_Vault_3) / [gi](/python/2020-08-17_Vault_3/gi) / [overrides](/python/2020-08-17_Vault_3/gi/overrides)
 
 # overrides
 
 -----
 
-## Files[Gdk.py](Gdk.py)
+## Files
+
+[Gdk.py](Gdk.py)
 
 [GdkPixbuf.py](GdkPixbuf.py)
 
@@ -17,8 +19,6 @@
 [GObject.py](GObject.py)
 
 [Gtk.py](Gtk.py)
-
-[index.md](index.md)
 
 [keysyms.py](keysyms.py)
 

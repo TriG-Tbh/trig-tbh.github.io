@@ -1,14 +1,14 @@
-[Main Page](/) / [Python Projects](/python) / [2020-05-29: Full Bot](2020-05-29_Full_Bot) / [cogs](cogs)
+[Main Page](/) / [Python Projects](/python) / [2020-05-29: Full Bot](/python/2020-05-29_Full_Bot) / [cogs](/python/2020-05-29_Full_Bot/cogs)
 
 # cogs
 
 -----
 
-## Files[fun.py](fun.py)
+## Files
+
+[fun.py](fun.py)
 
 [functions.py](functions.py)
-
-[index.md](index.md)
 
 [mongohelper.py](mongohelper.py)
 
