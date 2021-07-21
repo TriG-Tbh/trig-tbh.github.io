@@ -4,6 +4,8 @@
 
 # Python Projects
 
+All personal information (such as login info/real names) has been replaced with "[REDACTED]".
+
 [2015-12-21 through 2016-10-29: The first projects](2015-12-21_through_2016-10-29_The_first_projects)
 
 [2016-11-05: account](2016-11-05_account)
@@ -170,6 +172,8 @@
 
 [2019-09-10: DNS Server](2019-09-10_DNS_Server)
 
+[2019-09-17: Customizable Feed](2019-09-17_Customizable_Feed)
+
 [2019-09-26: Cyborg](2019-09-26_Cyborg)
 
 [2019-09-28: Run Executable As Admin](2019-09-28_Run_Executable_As_Admin)
@@ -183,6 +187,8 @@
 [2019-10-10: Tier List](2019-10-10_Tier_List)
 
 [2019-10-13: RA Encryption](2019-10-13_RA_Encryption)
+
+[2019-10-14: Random Post](2019-10-14_Random_Post)
 
 [2019-10-15: Emoji Stealer](2019-10-15_Emoji_Stealer)
 
@@ -213,6 +219,8 @@
 [2019-10-31: testthing](2019-10-31_testthing)
 
 [2019-10-31: the machine](2019-10-31_the_machine)
+
+[2019-11-01: Subreddit Analysis](2019-11-01_Subreddit_Analysis)
 
 [2019-11-01: validation](2019-11-01_validation)
 
@@ -288,6 +296,8 @@
 
 [2020-01-24: Async Music Bot v2](2020-01-24_Async_Music_Bot_v2)
 
+[2020-02-03: Reddit Roulette](2020-02-03_Reddit_Roulette)
+
 [2020-02-05: Pygame Snake (with Pathfinding)](2020-02-05_Pygame_Snake_(with_Pathfinding))
 
 [2020-02-05: Socket Games](2020-02-05_Socket_Games)
@@ -329,6 +339,8 @@
 [2020-04-24: Anti Lock-Out](2020-04-24_Anti_Lock-Out)
 
 [2020-04-29: Diary](2020-04-29_Diary)
+
+[2020-05-17: Adjusted Activity Score](2020-05-17_Adjusted_Activity_Score)
 
 [2020-05-19: Get Time](2020-05-19_Get_Time)
 
