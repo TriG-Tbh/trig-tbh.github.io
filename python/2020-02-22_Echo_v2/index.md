@@ -20,4 +20,4 @@ An attempt at rewriting the Echo bot from earlier.
 
 [settings.py](settings.py)
 
-[__init__.py](__init__.py)
+[\_\_init\_\_.py](\_\_init\_\_.py)
